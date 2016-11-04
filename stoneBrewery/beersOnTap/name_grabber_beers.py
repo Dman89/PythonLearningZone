@@ -45,11 +45,13 @@ text_temp = open("tempSave.txt", "r")
 lines = text_temp.read().split(", <")
 beerStr = lines[0]
 
+
 beerSplit = beerStr.split("<h5>Beers from "+company_names[0]+"</h5>")
 beerArr = beerSplit[1].split("<h5>Beers from "+company_names[1]+"</h5>")
-test = re.sub(r'class=".*"', "", beerArr[0])
-# print(beerArr[0].replace('class="/^[a-zA-Z0-9\-]/"', ''))
-print(test)
+company_info = []
+for data in beerArr:
+    data = re.sub(r'class=".*"', "", data)
+    company_info.append(data)
 
 # # Save File (Company Names)
 # with open("beerList.txt", "w") as text_file:
