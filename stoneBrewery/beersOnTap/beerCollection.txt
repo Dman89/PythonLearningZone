@@ -1,0 +1,134 @@
+[<span class="field-content"><a href="/events/stone-craft-beer-cheese-ultimate-pairing-festival">Stone Craft Beer &amp; Cheese: The Ultimate Pairing Festival</a></span>, <span class="field-content"><a href="/events/new-years-eve-liberty-station-0">New Year's Eve at Liberty Station</a></span>, <span class="field-content"><a alt="Stone IPA" href="/beer/year-round-releases/stone-ipa">
+<div class="col-sm-3"><img alt="" height="450" src="http://www.stonebrewing.com/sites/default/files/beer/menu/ipa_22_bottle.png" typeof="foaf:Image" width="125"/></div>
+<div class="col-sm-9">
+<div class="name">Stone IPA</div>
+<div class="style">India Pale Ale</div>
+<div class="abv">6.9%</div>
+<div class="arrow"><i class="icon-arrow-right"></i></div>
+</div>
+<div class="clearfix"></div>
+</a></span>, <span class="field-content"><a alt="Stone Delicious IPA" href="/beer/year-round-releases/stone-delicious-ipa">
+<div class="col-sm-3"><img alt="" height="450" src="http://www.stonebrewing.com/sites/default/files/beer/menu/delicious_22_bottle.png" typeof="foaf:Image" width="125"/></div>
+<div class="col-sm-9">
+<div class="name">Stone Delicious IPA</div>
+<div class="style">India Pale Ale</div>
+<div class="abv">7.7%</div>
+<div class="arrow"><i class="icon-arrow-right"></i></div>
+</div>
+<div class="clearfix"></div>
+</a></span>, <span class="field-content"><a alt="Stone Ruination Double IPA 2.0" href="/beer/year-round-releases/stone-ruination-double-ipa-20">
+<div class="col-sm-3"><img alt="" height="450" src="http://www.stonebrewing.com/sites/default/files/beer/menu/stone-ruin-2-menu.png" typeof="foaf:Image" width="125"/></div>
+<div class="col-sm-9">
+<div class="name">Stone Ruination Double IPA 2.0</div>
+<div class="style">Double IPA</div>
+<div class="abv">8.5%</div>
+<div class="arrow"><i class="icon-arrow-right"></i></div>
+</div>
+<div class="clearfix"></div>
+</a></span>, <span class="field-content"><a alt="Stone Go To IPA" href="/beer/year-round-releases/stone-go-ipa">
+<div class="col-sm-3"><img alt="" height="450" src="http://www.stonebrewing.com/sites/default/files/beer/menu/goto.png" typeof="foaf:Image" width="125"/></div>
+<div class="col-sm-9">
+<div class="name">Stone Go To IPA</div>
+<div class="style">India Pale Ale</div>
+<div class="abv">4.8%</div>
+<div class="arrow"><i class="icon-arrow-right"></i></div>
+</div>
+<div class="clearfix"></div>
+</a></span>, <span class="field-content"><a alt="Stone Cali-Belgique IPA" href="/beer/year-round-releases/stone-cali-belgique-ipa">
+<div class="col-sm-3"><img alt="" height="450" src="http://www.stonebrewing.com/sites/default/files/beer/menu/stone-cali-menu_0.png" typeof="foaf:Image" width="125"/></div>
+<div class="col-sm-9">
+<div class="name">Stone Cali-Belgique IPA</div>
+<div class="style">Belgian-Style IPA</div>
+<div class="abv">6.9%</div>
+<div class="arrow"><i class="icon-arrow-right"></i></div>
+</div>
+<div class="clearfix"></div>
+</a></span>, <span class="field-content"><a alt="Stone Pale Ale 2.0" href="/beer/year-round-releases/stone-pale-ale-20">
+<div class="col-sm-3"><img alt="" height="450" src="http://www.stonebrewing.com/sites/default/files/beer/menu/stonepaleale2-menu.png" typeof="foaf:Image" width="125"/></div>
+<div class="col-sm-9">
+<div class="name">Stone Pale Ale 2.0</div>
+<div class="style">Pale Ale</div>
+<div class="abv">6%</div>
+<div class="arrow"><i class="icon-arrow-right"></i></div>
+</div>
+<div class="clearfix"></div>
+</a></span>, <span class="field-content"><a alt="Stone Smoked Porter" href="/beer/year-round-releases/stone-smoked-porter">
+<div class="col-sm-3"><img alt="" height="450" src="http://www.stonebrewing.com/sites/default/files/beer/menu/2016_smokedporter_menu.png" typeof="foaf:Image" width="125"/></div>
+<div class="col-sm-9">
+<div class="name">Stone Smoked Porter</div>
+<div class="style">Porter</div>
+<div class="abv">5.9%</div>
+<div class="arrow"><i class="icon-arrow-right"></i></div>
+</div>
+<div class="clearfix"></div>
+</a></span>, <span class="field-content"><a alt="Stone Craft Beer &amp; Cheese: The Ultimate Pairing Festival" href="/events/stone-craft-beer-cheese-ultimate-pairing-festival">
+<div class="category">San Diego Beer Week</div>
+<div class="date"><span class="date-display-single" content="2016-11-06T12:00:00-08:00" datatype="xsd:dateTime" property="dc:date">Sunday, November 6, 2016</span></div>
+<div class="title">Stone Craft Beer &amp; Cheese: The Ultimate Pairing Festival</div>
+<div class="location">Stone Brewing World Bistro &amp; Gardens - Liberty Station</div>
+<div class="arrow"><i class="icon-arrow-right"></i></div>
+</a></span>, <span class="field-content"><a alt="New Year's Eve at Liberty Station" href="/events/new-years-eve-liberty-station-0">
+<div class="category">Special Events</div>
+<div class="date"><span class="date-display-single" content="2016-12-31T20:00:00-08:00" datatype="xsd:dateTime" property="dc:date">Saturday, December 31, 2016</span></div>
+<div class="title">New Year's Eve at Liberty Station</div>
+<div class="location">Stone Brewing World Bistro &amp; Gardens - Liberty Station</div>
+<div class="arrow"><i class="icon-arrow-right"></i></div>
+</a></span>, <span class="field-content"><a alt="Because We Give a Wit" href="/blog/beer/2016/because-we-give-wit">
+<div class="pretitle">Stone Citrusy Wit</div>
+<div class="date">Tuesday, June 28, 2016</div>
+<div class="title">Because We Give a Wit</div>
+<div class="term">Beer</div>
+<div class="arrow"><i class="icon-arrow-right"></i></div>
+</a></span>, <span class="field-content"><a alt="Like a bucket list but better…and hoppier!" href="/blog/miscellany/2016/bucket-list-better%E2%80%A6and-hoppier">
+<div class="pretitle">Our Summer Can List</div>
+<div class="date">Tuesday, June 14, 2016</div>
+<div class="title">Like a bucket list but better…and hoppier!</div>
+<div class="term">Miscellany</div>
+<div class="arrow"><i class="icon-arrow-right"></i></div>
+</a></span>, <span class="field-content"><a alt="From Wayward Hippie to Punk Rock Beer Slinger to Influential Brewer" href="/blog/miscellany/2016/wayward-hippie-punk-rock-beer-slinger-influential-brewer">
+<div class="pretitle">Behind The Beer: The Stories of Team Stone</div>
+<div class="date">Monday, May 2, 2016</div>
+<div class="title">From Wayward Hippie to Punk Rock Beer Slinger to Influential Brewer</div>
+<div class="term">Miscellany</div>
+<div class="arrow"><i class="icon-arrow-right"></i></div>
+</a></span>, <span class="field-content"><a alt="Stone 6th Anniversary Porter Comes Back for an Encore" href="/blog/beer/2016/stone-6th-anniversary-porter-comes-back-encore">
+<div class="pretitle">Discover the Backstory Behind This Highly Rated Mishap Of A Success:</div>
+<div class="date">Sunday, April 24, 2016</div>
+<div class="title">Stone 6th Anniversary Porter Comes Back for an Encore</div>
+<div class="term">Beer</div>
+<div class="arrow"><i class="icon-arrow-right"></i></div>
+</a></span>, <span class="field-content"><a alt="Stone Stout Cookies" href="/blog/food/2016/stone-stout-cookies">
+<div class="pretitle">Not Your Grandma's Recipe</div>
+<div class="date">Friday, April 8, 2016</div>
+<div class="title">Stone Stout Cookies</div>
+<div class="term">Food</div>
+<div class="arrow"><i class="icon-arrow-right"></i></div>
+</a></span>, <span class="field-content"><a alt="April Fools' Over the Years" href="/blog/miscellany/2016/april-fools-over-years">
+<div class="pretitle">Pulling a Fast One on Our Fans:</div>
+<div class="date">Monday, April 4, 2016</div>
+<div class="title">April Fools' Over the Years</div>
+<div class="term">Miscellany</div>
+<div class="arrow"><i class="icon-arrow-right"></i></div>
+</a></span>, <span class="field-content"><a alt="Stone Imperial Russian Stout" href="/blog/beer/2016/stone-imperial-russian-stout">
+<div class="pretitle">What's in a Name?</div>
+<div class="date">Friday, April 1, 2016</div>
+<div class="title">Stone Imperial Russian Stout</div>
+<div class="term">Beer</div>
+<div class="arrow"><i class="icon-arrow-right"></i></div>
+</a></span>, <span class="field-content"><a alt="May Its 20 Year Legacy Linger On" href="/blog/beer/2016/may-its-20-year-legacy-linger">
+<div class="pretitle">Stone Smoked Porter</div>
+<div class="date">Thursday, March 24, 2016</div>
+<div class="title">May Its 20 Year Legacy Linger On</div>
+<div class="term">Beer</div>
+<div class="arrow"><i class="icon-arrow-right"></i></div>
+</a></span>, <span class="field-content"><a href="/events/beer-u-richmond-intro-beer">
+<div class="views-field-field-category">Beer U</div>
+<div class="views-field-field-thumbnail-image"><img alt="" height="199" src="http://www.stonebrewing.com/sites/default/files/styles/event_teaser/public/event_thumbnail/beeru1_1.jpg?itok=8kvhr2pO" typeof="foaf:Image" width="300"/><div class="arrow"><i class="icon-arrow-right"></i></div></div>
+<div class="views-field-field-date"><span class="date-display-single" content="2016-11-07T19:00:00-08:00" datatype="xsd:dateTime" property="dc:date">Monday, November 7, 2016</span></div>
+<div class="views-field-title">Beer U: Richmond - Intro to Beer</div>
+</a></span>, <span class="field-content"><a href="/events/stygian-descent-richmond-company-store">
+<div class="views-field-field-category">Store: Special Bottle Releases</div>
+<div class="views-field-field-thumbnail-image"><img alt="" height="199" src="http://www.stonebrewing.com/sites/default/files/styles/event_teaser/public/event_thumbnail/stygian.png?itok=ChqVyUPC" typeof="foaf:Image" width="300"/><div class="arrow"><i class="icon-arrow-right"></i></div></div>
+<div class="views-field-field-date"><span class="date-display-single" content="2016-11-21T00:00:00-08:00" datatype="xsd:dateTime" property="dc:date">Monday, November 21, 2016</span></div>
+<div class="views-field-title">Stygian Descent (Richmond Company Store)</div>
+</a></span>, <span class="field-content">Stone Go To IPA</span>, <span class="field-content">Stone Smoked Porter</span>, <span class="field-content">Stone Pale Ale 2.0</span>, <span class="field-content">Stone IPA</span>, <span class="field-content">Stone Delicious IPA</span>, <span class="field-content">Stone Ruination Double IPA 2.0</span>, <span class="field-content">Stone Coffee Milk Stout</span>, <span class="field-content">20th Anniversary Encore Series: Stone 02.02.02 Vertical Epic Ale</span>, <span class="field-content">Stone Xocoveza</span>, <span class="field-content">Stone Barrel-Aged Brown Ale w/Balaton Sour Cherries </span>, <span class="field-content">Stone 20th Anniversary Encore Series: 5th Anniversary IPA</span>, <span class="field-content">Stone Americano Stout</span>, <span class="field-content">20th Anniversary Encore Series: Beachwood / Heretic / Stone Still Unapologetic IPA</span>, <span class="field-content">Stone xS IPA</span>, <span class="field-content">20th Anniversary Encore Series: Stone 14th Anniversary Emperial IPA</span>, <span class="field-content">Stone 20th Anniversary Citracado IPA</span>, <span class="field-content">Stone Enjoy By 11.25.16 IPA</span>, <span class="field-content">20th Anniversary Encore: Stone 10th Anniversary IPA</span>, <span class="field-content">20th Anniversary Encore Series: Stone 15th Anniversary Escondidian Imperial Black IPA</span>, <span class="field-content">Who You Callin' Wussie</span>, <span class="field-content">Arrogant Bastard Ale</span>, <span class="field-content">Bourbon Barrel-Aged Arrogant Bastard </span>, <span class="field-content">2016 Lukcy Basartd Ale</span>, <span class="field-content">2016 Double Bastard Ale </span>, <span class="field-content"><a href="/events/stone-spotlight%C2%A0scr%C3%BC-wit-5">Stone Spotlight: Scrü Wit</a></span>, <span class="field-content"><a href="/events/rva-beer-week-barrel-aged-saturday">RVA Beer Week: Barrel Aged Saturday</a></span>, <span class="field-content"><a href="/events/rva-beer-week-barrel-aged-saturday">RVA Beer Week: Barrel Aged Saturday</a></span>, <span class="field-content"><a href="/events/rva-beer-week-ipa-sunday">RVA Beer Week: IPA Sunday</a></span>, <span class="field-content"><a href="/events/rva-beer-week-ipa-sunday">RVA Beer Week: IPA Sunday</a></span>, <span class="field-content"><a href="/events/rva-beer-week-beer-u-intro-beer">RVA Beer Week: Beer U: Intro to Beer</a></span>, <span class="field-content"><a href="/events/rva-beer-week-beer-u-intro-beer">RVA Beer Week: Beer U: Intro to Beer</a></span>, <span class="field-content"><a href="/events/rva-beer-week-vintage-tuesday">RVA Beer Week: Vintage Tuesday</a></span>, <span class="field-content"><a href="/events/rva-beer-week-vintage-tuesday">RVA Beer Week: Vintage Tuesday</a></span>, <span class="field-content"><a href="/events/rva-beer-week-collaboration-wednesday">RVA Beer Week: Collaboration Wednesday</a></span>, <span class="field-content"><a href="/events/rva-beer-week-collaboration-wednesday">RVA Beer Week: Collaboration Wednesday</a></span>, <span class="field-content"><a href="/events/rva-beer-weekspecial-creation-thursday">RVA Beer Week:Special Creation Thursday</a></span>, <span class="field-content"><a href="/events/rva-beer-weekspecial-creation-thursday">RVA Beer Week:Special Creation Thursday</a></span>, <span class="field-content"><a href="/events/rva-beer-week-weekend-growler-fill">RVA Beer Week: Weekend Growler Fill</a></span>, <span class="field-content"><a href="/events/rva-beer-week-weekend-growler-fill">RVA Beer Week: Weekend Growler Fill</a></span>, <span class="field-content"><a href="/events/rva-beer-week-secret-tap-saturday">RVA Beer Week: Secret Tap Saturday</a></span>, <span class="field-content"><a href="/events/rva-beer-week-secret-tap-saturday">RVA Beer Week: Secret Tap Saturday</a></span>, <span class="field-content"><a href="/events/arrogant-brewing-2013-double-bastard-ale">Arrogant Brewing: 2013 Double Bastard Ale</a></span>, <span class="field-content"><a href="/events/20th-anniversary-encore-series-stone-14th-anniversary-emperial-ipa-3">20th Anniversary Encore Series: Stone 14th Anniversary Emperial IPA</a></span>, <span class="field-content"><a href="/events/juli-goldenbergmonkey-pawstone-24-carrot-golden-ale-23">Juli Goldenberg/Monkey Paw/Stone 24 Carrot Golden Ale</a></span>, <span class="field-content"><a href="/events/stone-koteka-rise-grind-bourbon-barrel-aged-imperial-red-ale-wpapua-new-guinea-coffee-1">Stone Koteka Rise &amp; Grind (Bourbon Barrel aged Imperial Red Ale w/Papua New Guinea Coffee)</a></span>, <span class="field-content"><a href="/events/20th-anniversary-encore-series-stone-12th-anniversary-bitter-chocolate-oatmeal-stout-16">20th Anniversary Encore Series: Stone 12th Anniversary Bitter Chocolate Oatmeal Stout</a></span>, <span class="field-content"><a href="/events/stone-barrel-aged-imperial-saison-w-peach-1">Stone Barrel-Aged Imperial Saison w/ Peach</a></span>, <span class="field-content"><a href="/events/stone-foudre-aged-imperial-saison-10">Stone Foudre-Aged Imperial Saison</a></span>, <span class="field-content"><a href="/events/20th-anniversary-encore-series-stone-020202-vertical-epic-ale-6">20th Anniversary Encore Series: Stone 02.02.02 Vertical Epic Ale</a></span>, <span class="field-content"><a href="/events/drew-curtis-wil-wheaton-greg-koch-stone-farking-wheaton-w00tstout-2016-8">Drew Curtis / Wil Wheaton / Greg Koch Stone Farking Wheaton w00tstout (2016)</a></span>, <span class="field-content"><a href="/events/2015-stone-imperial-russian-stout-13">2015 Stone Imperial Russian Stout</a></span>, <span class="field-content"><a href="/events/20th-anniversary-encore-series-stone-14th-anniversary-emperial-ipa-5">20th Anniversary Encore Series: Stone 14th Anniversary Emperial IPA</a></span>, <span class="field-content"><a href="/beer/year-round-releases">Year-Round Releases</a></span>, <span class="field-content"><a href="/beer/stone-seasonals">Stone Seasonals</a></span>, <span class="field-content"><a href="/beer/special-releases">Special Releases</a></span>, <span class="field-content"><a href="/beer/stone-enjoy-ipa-series">Stone Enjoy By IPA Series</a></span>, <span class="field-content"><a href="/beer/stone-anniversary-ales">Stone Anniversary Ales</a></span>, <span class="field-content"><a href="/beer/stone-20th-anniversary-encore-series">Stone 20th Anniversary Encore Series</a></span>, <span class="field-content"><a href="/beer/stone-collaborations">Stone Collaborations</a></span>, <span class="field-content"><a href="/beer/small-batch-series">Small Batch Series</a></span>, <span class="field-content"><a href="/beer/stone-spotlight-series">Stone Spotlight Series</a></span>, <span class="field-content"><a href="/beer/stone-enjoy-after-brett-ipa-series">Stone Enjoy After Brett IPA Series</a></span>, <span class="field-content"><a href="/beer/stone-stochasticity-project">Stone Stochasticity Project</a></span>, <span class="field-content"><a href="/beer/stone-vertical-epic-ales">Stone Vertical Epic Ales</a></span>, <span class="field-content"><a href="/beer/stone-groundbreaking-collaborations">Stone Groundbreaking Collaborations</a></span>, <span class="field-content"><a href="/visit/bistros/escondido">Escondido</a></span>, <span class="field-content"><a href="/visit/bistros/liberty-station">Liberty Station</a></span>, <span class="field-content"><a href="/visit/bistros/berlin">Berlin</a></span>, <span class="field-content"><a href="/visit/outposts/richmond">Richmond</a></span>, <span class="field-content"><a href="/visit/outposts/oceanside">Oceanside</a></span>, <span class="field-content"><a href="/visit/outposts/pasadena">Pasadena</a></span>, <span class="field-content"><a href="/visit/outposts/on-kettner">On Kettner</a></span>, <span class="field-content"><a href="/visit/outposts/tap-room">Tap Room</a></span>, <span class="field-content"><a href="/visit/outposts/petco-park">at Petco Park</a></span>, <span class="field-content"><a href="/visit/outposts/airport">San Diego Int'l Airport</a></span>, <span class="field-content"><a href="/event-category/beer-u">Beer U</a></span>, <span class="field-content"><a href="/event-category/rva-beer-week">RVA Beer Week</a></span>, <span class="field-content"><a href="/event-category/san-diego-beer-week">San Diego Beer Week</a></span>, <span class="field-content"><a href="/event-category/special-events">Special Events</a></span>, <span class="field-content"><a href="/event-category/store-special-bottle-releases">Store: Special Bottle Releases</a></span>, <span class="field-content"><a href="/event-category/upcoming-growler-fills">Upcoming Growler Fills</a></span>]
