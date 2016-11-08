@@ -1,1 +1,1 @@
-{'state': 'CA', 'streetName': '795 J Street', 'name': 'Stone Brewing Tap Room', 'address2': '', 'city': 'San Diego', 'phone': '619.727.4452', 'zipCode': '92101'}
+{'state': 'CA', 'city': 'San Diego', 'zipCode': '92101', 'streetName': '795 J Street', 'phone': '619.727.4452', 'address2': '', 'name': 'Stone Brewing Tap Room'}
