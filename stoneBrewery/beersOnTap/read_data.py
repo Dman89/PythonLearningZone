@@ -13,14 +13,14 @@ def print_beers():
 
 def print_full():
     for item in loaded_list:
-        print(item["name"])
-        print(item["phone"])
-        print(item["streetName"])
-        print(item["address2"])
-        print(item["city"])
-        print(item["zipCode"])
-        print(item["state"])
+        print("\n\nName:\n",item["name"])
+        print("Phone Number:\n",item["phone"])
+        print("Street:\n",item["streetName"])
+        print("Address Suffix:\n",item["address2"])
+        print("City:\n",item["city"])
+        print("Zipcode:\n",item["zipCode"])
+        print("State:\n",item["state"])
         for beer in item["beers"]:
-            print(beer)
+            print("Beer:\n",beer)
 
 print_full()
