@@ -6,8 +6,10 @@ barModal = {
   city: String,
   zipCode: Number,
   state: String,
-  beers: {
-    brewery: String,
-    beer: String
-  }
+  beers: [
+    {
+      breweryName: String,
+      beerName: String
+    }
+  ]
 }

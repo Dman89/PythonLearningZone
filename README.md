@@ -8,6 +8,6 @@ Python 3 Required
 1. Download [Project](https://github.com/Dman89/Scrapper_Project)
 2. Open Console
 ```
-cd ./stoneBrewery/beersOnTap```
+cd ./stoneBrewery/beersOnTap
 python scraper.py
 ```
