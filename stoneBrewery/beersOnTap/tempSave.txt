@@ -1,39 +1,109 @@
-[<div class="col-md-12"><h3>Currently On Draft</h3><p class="growler-info"><a href="/shop/getting-beer-stone">Read our policies for getting beer at Stone <i class="icon-arrow-right"></i></a></p><p class="growler-disclaimer">All beers available on a first come, first served basis. Some limits may apply.</p><h5>Beers from Stone Brewing</h5><div class="view view-location-currently-available-fills view-id-location_currently_available_fills view-display-id-stone_fills view-dom-id-bd53a3171808268a86803c89b1948713">
+[<div class="col-md-6"><h3>Currently On Draft</h3><p class="growler-info"><a href="/shop/getting-beer-stone">Read our policies for getting beer at Stone <i class="icon-arrow-right"></i></a></p><p class="growler-disclaimer">All beers available on a first come, first served basis. Some limits may apply.</p><h5>Beers from Stone Brewing</h5><div class="view view-location-currently-available-fills view-id-location_currently_available_fills view-display-id-stone_fills view-dom-id-c8b521b642650f2553c10ffd006236e7">
 <div class="view-content">
 <div class="views-row views-row-1 views-row-odd views-row-first">
-<div class="views-field views-field-title"> <span class="field-content">Stone Go To IPA</span> </div> </div>
-<div class="views-row views-row-2 views-row-even">
-<div class="views-field views-field-title"> <span class="field-content">Stone IPA</span> </div> </div>
-<div class="views-row views-row-3 views-row-odd">
 <div class="views-field views-field-title"> <span class="field-content">Stone Delicious IPA</span> </div> </div>
+<div class="views-row views-row-2 views-row-even">
+<div class="views-field views-field-title"> <span class="field-content">Stone Brewing World Bistro &amp; Gardens - Liberty Station Commander in the Crosshairs</span> </div> </div>
+<div class="views-row views-row-3 views-row-odd">
+<div class="views-field views-field-title"> <span class="field-content">Stone Brewing World Bistro &amp; Gardens - Liberty Station/Bitter Brothers Jerkemon Go</span> </div> </div>
 <div class="views-row views-row-4 views-row-even">
-<div class="views-field views-field-title"> <span class="field-content">Stone Ruination Double IPA 2.0</span> </div> </div>
-<div class="views-row views-row-5 views-row-odd">
-<div class="views-field views-field-title"> <span class="field-content">Stone Coffee Milk Stout</span> </div> </div>
-<div class="views-row views-row-6 views-row-even">
-<div class="views-field views-field-title"> <span class="field-content">Stone Mint Coffee Milk Stout</span> </div> </div>
-<div class="views-row views-row-7 views-row-odd">
 <div class="views-field views-field-title"> <span class="field-content">Stone Ripper</span> </div> </div>
+<div class="views-row views-row-5 views-row-odd">
+<div class="views-field views-field-title"> <span class="field-content">Stone Pilot: White IPA</span> </div> </div>
+<div class="views-row views-row-6 views-row-even">
+<div class="views-field views-field-title"> <span class="field-content">Stone Pilot - Red IPA</span> </div> </div>
+<div class="views-row views-row-7 views-row-odd">
+<div class="views-field views-field-title"> <span class="field-content">Stone Cali-Belgique IPA aged in White Wine Barrels</span> </div> </div>
 <div class="views-row views-row-8 views-row-even">
-<div class="views-field views-field-title"> <span class="field-content">Stone Brewing World Bistro &amp; Gardens - Liberty Station Mättzen</span> </div> </div>
-<div class="views-row views-row-9 views-row-odd">
 <div class="views-field views-field-title"> <span class="field-content">Stone Xocoveza</span> </div> </div>
-<div class="views-row views-row-10 views-row-even">
+<div class="views-row views-row-9 views-row-odd">
 <div class="views-field views-field-title"> <span class="field-content">Stone Pilot Series: 612 Wheat Double IPA</span> </div> </div>
+<div class="views-row views-row-10 views-row-even">
+<div class="views-field views-field-title"> <span class="field-content">Stone 20th Anniversary Encore Series: Beachwood / Heretic / Stone Still Unapologetic IPA</span> </div> </div>
 <div class="views-row views-row-11 views-row-odd">
 <div class="views-field views-field-title"> <span class="field-content">20th Anniversary Encore Series: Stone 14th Anniversary Emperial IPA</span> </div> </div>
 <div class="views-row views-row-12 views-row-even">
-<div class="views-field views-field-title"> <span class="field-content">Stone Mixtape Ale vol.15 - Brett the Rockies </span> </div> </div>
+<div class="views-field views-field-title"> <span class="field-content">Stone 20th Anniversary Citracado IPA</span> </div> </div>
 <div class="views-row views-row-13 views-row-odd">
+<div class="views-field views-field-title"> <span class="field-content">Stone Mixtape Ale vol.15 - Brett the Rockies </span> </div> </div>
+<div class="views-row views-row-14 views-row-even">
 <div class="views-field views-field-title"> <span class="field-content">Stone Enjoy By 11.25.16 IPA</span> </div> </div>
-<div class="views-row views-row-14 views-row-even views-row-last">
-<div class="views-field views-field-title"> <span class="field-content">Stone Barrel Aged Milk Chocolate Porter</span> </div> </div>
+<div class="views-row views-row-15 views-row-odd views-row-last">
+<div class="views-field views-field-title"> <span class="field-content">20th Anniversary Encore Series: Stone 10th Anniversary IPA</span> </div> </div>
 </div>
-</div><h5>Beers from Arrogant Brewing</h5><div class="view view-location-currently-available-fills view-id-location_currently_available_fills view-display-id-bastard_fills view-dom-id-98e1d16bffab32e9657d6c73dcd551c7">
+</div><h5>Beers from Arrogant Brewing</h5><div class="view view-location-currently-available-fills view-id-location_currently_available_fills view-display-id-bastard_fills view-dom-id-37095c6013b5ab8ab62a98f2cacf461f">
 <div class="view-content">
 <div class="views-row views-row-1 views-row-odd views-row-first">
-<div class="views-field views-field-title"> <span class="field-content">Lukcy Basartd Ale</span> </div> </div>
-<div class="views-row views-row-2 views-row-even views-row-last">
-<div class="views-field views-field-title"> <span class="field-content">2005 Double Bastard Ale</span> </div> </div>
+<div class="views-field views-field-title"> <span class="field-content">Arrogant Brewing Pilot: Lil' Bastard Ale w/ Spanish Cedar</span> </div> </div>
+<div class="views-row views-row-2 views-row-even">
+<div class="views-field views-field-title"> <span class="field-content">Arrogant Brewing Pilot: Rye Stout</span> </div> </div>
+<div class="views-row views-row-3 views-row-odd">
+<div class="views-field views-field-title"> <span class="field-content">Arrogant Bastard Ale</span> </div> </div>
+<div class="views-row views-row-4 views-row-even">
+<div class="views-field views-field-title"> <span class="field-content">2016 Lukcy Basartd Ale</span> </div> </div>
+<div class="views-row views-row-5 views-row-odd views-row-last">
+<div class="views-field views-field-title"> <span class="field-content">2016 Double Bastard Ale </span> </div> </div>
+</div>
+</div></div>, <div class="col-md-6"><h3>Upcoming Special Taps</h3><p class="growler-info"><a href="/shop/growler-fills">Join the growler fills newsletter <i class="icon-arrow-right"></i></a></p><div class="view view-stone-location-growler-fill-list view-id-stone_location_growler_fill_list view-display-id-block view-dom-id-8e95aee90ad32203b071b5616cea8e19">
+<div class="view-header">
+<h2>Growler Fills</h2> </div>
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first clearfix">
+<div class="views-field views-field-field-date"> <div class="field-content"><span class="date-display-single" content="2016-11-08T00:00:00-08:00" datatype="xsd:dateTime" property="dc:date">Tuesday, November 8</span></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/events/sdbw-2016-vintage-tuesday">SDBW 2016: Vintage Tuesday</a></span> </div> </div>
+<div class="views-row views-row-2 views-row-even clearfix">
+<div class="views-field views-field-field-date"> <div class="field-content"><span class="date-display-single" content="2016-11-09T00:00:00-08:00" datatype="xsd:dateTime" property="dc:date">Wednesday, November 9</span></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/events/sdbw-2016-collaboration-wednesday">SDBW 2016: Collaboration Wednesday</a></span> </div> </div>
+<div class="views-row views-row-3 views-row-odd clearfix">
+<div class="views-field views-field-field-date"> <div class="field-content"><span class="date-display-single" content="2016-11-10T00:00:00-08:00" datatype="xsd:dateTime" property="dc:date">Thursday, November 10</span></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/events/sdbw-2016-liberty-station-brews-thursday">SDBW 2016: Liberty Station Brews Thursday</a></span> </div> </div>
+<div class="views-row views-row-4 views-row-even clearfix">
+<div class="views-field views-field-field-date"> <div class="field-content"><span class="date-display-single" content="2016-11-11T00:00:00-08:00" datatype="xsd:dateTime" property="dc:date">Friday, November 11</span></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/events/sdbw-2016-weekend-growler-fill-0">SDBW 2016: Weekend Growler Fill</a></span> </div> </div>
+<div class="views-row views-row-5 views-row-odd clearfix">
+<div class="views-field views-field-field-date"> <div class="field-content"><span class="date-display-single" content="2016-11-11T00:00:00-08:00" datatype="xsd:dateTime" property="dc:date">Friday, November 11</span></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/events/stone-company-store-kettner-3rd-anniversary-celebration">Stone Company Store - On Kettner 3rd Anniversary Celebration</a></span> </div> </div>
+<div class="views-row views-row-6 views-row-even clearfix">
+<div class="views-field views-field-field-date"> <div class="field-content"><span class="date-display-single" content="2016-11-11T00:00:00-08:00" datatype="xsd:dateTime" property="dc:date">Friday, November 11</span></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/events/stone-company-store-kettner-3rd-anniversary-celebration">Stone Company Store - On Kettner 3rd Anniversary Celebration</a></span> </div> </div>
+<div class="views-row views-row-7 views-row-odd clearfix">
+<div class="views-field views-field-field-date"> <div class="field-content"><span class="date-display-single" content="2016-11-12T00:00:00-08:00" datatype="xsd:dateTime" property="dc:date">Saturday, November 12</span></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/events/sdbw-2016-secret-tap-saturday">SDBW 2016: Secret Tap Saturday</a></span> </div> </div>
+<div class="views-row views-row-8 views-row-even clearfix">
+<div class="views-field views-field-field-date"> <div class="field-content"><span class="date-display-single" content="2016-11-13T00:00:00-08:00" datatype="xsd:dateTime" property="dc:date">Sunday, November 13</span></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/events/sdbw-2016-new-release-sunday">SDBW 2016: New Release Sunday</a></span> </div> </div>
+<div class="views-row views-row-9 views-row-odd clearfix">
+<div class="views-field views-field-field-date"> <div class="field-content"><span class="date-display-single" content="2016-11-15T00:00:00-08:00" datatype="xsd:dateTime" property="dc:date">Tuesday, November 15</span></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/events/stone-winter-harvest-triple-7">Stone Winter Harvest Triple</a></span> </div> </div>
+<div class="views-row views-row-10 views-row-even clearfix">
+<div class="views-field views-field-field-date"> <div class="field-content"><span class="date-display-single" content="2016-11-17T00:00:00-08:00" datatype="xsd:dateTime" property="dc:date">Thursday, November 17</span></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/events/stone-brewing-world-bistro-gardens-liberty-station-ryethm">Stone Brewing World Bistro &amp; Gardens - Liberty Station Ryethm</a></span> </div> </div>
+<div class="views-row views-row-11 views-row-odd clearfix">
+<div class="views-field views-field-field-date"> <div class="field-content"><span class="date-display-single" content="2016-11-18T00:00:00-08:00" datatype="xsd:dateTime" property="dc:date">Friday, November 18</span></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/events/20th-anniversary-encore-series-stone-14th-anniversary-emperial-ipa-2">20th Anniversary Encore Series: Stone 14th Anniversary Emperial IPA</a></span> </div> </div>
+<div class="views-row views-row-12 views-row-even clearfix">
+<div class="views-field views-field-field-date"> <div class="field-content"><span class="date-display-single" content="2016-11-21T00:00:00-08:00" datatype="xsd:dateTime" property="dc:date">Monday, November 21</span></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/events/stone-koteka-rise-grind-bourbon-barrel-aged-imperial-red-ale-wpapua-new-guinea-coffee-0">Stone Koteka Rise &amp; Grind (Bourbon Barrel aged Imperial Red Ale w/Papua New Guinea Coffee)</a></span> </div> </div>
+<div class="views-row views-row-13 views-row-odd clearfix">
+<div class="views-field views-field-field-date"> <div class="field-content"><span class="date-display-single" content="2016-11-21T00:00:00-08:00" datatype="xsd:dateTime" property="dc:date">Monday, November 21</span></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/events/stone-enjoy-122516-unfiltered-ipa">Stone Enjoy By 12.25.16 Unfiltered IPA</a></span> </div> </div>
+<div class="views-row views-row-14 views-row-even clearfix">
+<div class="views-field views-field-field-date"> <div class="field-content"><span class="date-display-single" content="2016-11-22T00:00:00-08:00" datatype="xsd:dateTime" property="dc:date">Tuesday, November 22</span></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/events/stone-barrel-aged-imperial-saison-w-peach-0">Stone Barrel-Aged Imperial Saison w/ Peach</a></span> </div> </div>
+<div class="views-row views-row-15 views-row-odd clearfix">
+<div class="views-field views-field-field-date"> <div class="field-content"><span class="date-display-single" content="2016-11-23T00:00:00-08:00" datatype="xsd:dateTime" property="dc:date">Wednesday, November 23</span></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/events/stone-brewing-world-bistro-gardens-liberty-station-kolsch%C3%A9">Stone Brewing World Bistro &amp; Gardens - Liberty Station Kolsché</a></span> </div> </div>
+<div class="views-row views-row-16 views-row-even clearfix">
+<div class="views-field views-field-field-date"> <div class="field-content"><span class="date-display-single" content="2016-11-23T00:00:00-08:00" datatype="xsd:dateTime" property="dc:date">Wednesday, November 23</span></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/events/stone-pilot-stone-enjoy-ipa-wcoffee-chocolate">Stone Pilot: Stone Enjoy By IPA w/Coffee &amp; Chocolate</a></span> </div> </div>
+<div class="views-row views-row-17 views-row-odd clearfix">
+<div class="views-field views-field-field-date"> <div class="field-content"><span class="date-display-single" content="2016-11-25T00:00:00-08:00" datatype="xsd:dateTime" property="dc:date">Friday, November 25</span></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/events/drew-curtis-wil-wheaton-greg-koch-stone-farking-wheaton-w00tstout-2016-7">Drew Curtis / Wil Wheaton / Greg Koch Stone Farking Wheaton w00tstout (2016)</a></span> </div> </div>
+<div class="views-row views-row-18 views-row-even clearfix">
+<div class="views-field views-field-field-date"> <div class="field-content"><span class="date-display-single" content="2016-11-29T00:00:00-08:00" datatype="xsd:dateTime" property="dc:date">Tuesday, November 29</span></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/events/stone-foudre-aged-imperial-saison-11">Stone Foudre-Aged Imperial Saison</a></span> </div> </div>
+<div class="views-row views-row-19 views-row-odd views-row-last clearfix">
+<div class="views-field views-field-field-date"> <div class="field-content"><span class="date-display-single" content="2016-12-02T00:00:00-08:00" datatype="xsd:dateTime" property="dc:date">Friday, December 2</span></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/events/20th-anniversary-encore-series-stone-14th-anniversary-emperial-ipa-4">20th Anniversary Encore Series: Stone 14th Anniversary Emperial IPA</a></span> </div> </div>
 </div>
 </div></div>]

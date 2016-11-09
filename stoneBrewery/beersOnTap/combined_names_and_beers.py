@@ -8,7 +8,7 @@ def combination():
     brewery_beers = []
     for info in location_beers:
         for beer in info["beers"]:
-            tempDict = {"brewery": info['brewery_name'], "beer": ""}
+            tempDict = {"breweryName": info['brewery_name'], "beerName": ""}
             tempDict["beer"] = beer
             brewery_beers.append(tempDict)
 

@@ -7,65 +7,59 @@
 <meta charset="utf-8">
 <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" name="viewport">
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
-<meta about="/visit/outposts/tap-room" content="Stone Brewing Tap Room" property="rdfs:label skos:prefLabel" typeof="skos:Concept"/>
 <link href="http://www.stonebrewing.com/sites/default/files/favicon.png" rel="shortcut icon" type="image/png"/>
-<link href="http://www.stonebrewing.com/taxonomy/term/236/feed" rel="alternate" title="RSS - Stone Brewing Tap Room" type="application/rss+xml"/>
+<meta about="/visit/outposts/on-kettner" content="Stone Company Store - Kettner" property="rdfs:label skos:prefLabel" typeof="skos:Concept"/>
+<link href="http://www.stonebrewing.com/taxonomy/term/241/feed" rel="alternate" title="RSS - Stone Company Store - Kettner" type="application/rss+xml"/>
+<meta content="Explore and enjoy Stone beer in a relaxed, intimate setting framed by our signature architectural elements of concrete, stone, metal, reclaimed wood, plant life and natural lighting. Stone Company Store - On Kettner is a tasting room and retail store with a patio garden in the nationally registered historic McClintock Warehouse building, less than a block from the landmark Santa Fe Depot train station. Working with the City of San Diego Historic Department, we helped maintain the historic storefront façade while integrating the historic interior building elements into our overall design. One such historic element meant incorporating the old storage unit’s numbers and signage into the store’s design. Stone planned the exterior landscaping to complement the building’s architecture and created a scheme that blends the interior space into the landscaped patio area. Our unique tasting experience features numerous rotating taps of Stone Brewing Co. beers, including year-round beers, special and one-time releases, and periodic archived vintages. Purchase growler fills of fresh Stone beer, kegs, bottles, and Stone Brewing Co. merchandise and gifts ranging from favorite staples to uncommon novelties, including t-shirts, glassware, soap, candles, dog treats, jewelry, books and more." name="description"/>
 <meta content="Drupal 7 (http://drupal.org)" name="generator"/>
-<link href="http://www.stonebrewing.com/visit/outposts/tap-room" rel="canonical"/>
-<link href="http://www.stonebrewing.com/taxonomy/term/236" rel="shortlink"/>
+<link href="http://www.stonebrewing.com/visit/outposts/on-kettner" rel="canonical"/>
+<link href="http://www.stonebrewing.com/taxonomy/term/241" rel="shortlink"/>
 <meta content="Stone Brewing" property="og:site_name"/>
 <meta content="article" property="og:type"/>
-<meta content="http://www.stonebrewing.com/visit/outposts/tap-room" property="og:url"/>
-<meta content="Stone Brewing Tap Room" property="og:title"/>
-<meta content="http://www.stonebrewing.com/sites/default/files/stone_location_banner/header_taproom.jpg" property="og:image"/>
-<meta content="http://www.stonebrewing.com/sites/default/files/stone_location_banner/header_taproom.jpg" property="og:image:url"/>
-<title>Stone Brewing Tap Room | Stone Brewing</title>
+<meta content="http://www.stonebrewing.com/visit/outposts/on-kettner" property="og:url"/>
+<meta content="Stone Company Store - Kettner" property="og:title"/>
+<meta content="Explore and enjoy Stone beer in a relaxed, intimate setting framed by our signature architectural elements of concrete, stone, metal, reclaimed wood, plant life and natural lighting. Stone Company Store - On Kettner is a tasting room and retail store with a patio garden in the nationally registered historic McClintock Warehouse building, less than a block from the landmark Santa Fe Depot train station. Working with the City of San Diego Historic Department, we helped maintain the historic storefront façade while integrating the historic interior building elements into our overall design. One such historic element meant incorporating the old storage unit’s numbers and signage into the store’s design. Stone planned the exterior landscaping to complement the building’s architecture and created a scheme that blends the interior space into the landscaped patio area. Our unique tasting experience features numerous rotating taps of Stone Brewing Co. beers, including year-round beers, special and one-time releases, and periodic archived vintages. Purchase growler fills of fresh Stone beer, kegs, bottles, and Stone Brewing Co. merchandise and gifts ranging from favorite staples to uncommon novelties, including t-shirts, glassware, soap, candles, dog treats, jewelry, books and more." property="og:description"/>
+<meta content="http://www.stonebrewing.com/sites/default/files/stone_location_banner/kett2.jpg" property="og:image"/>
+<meta content="http://www.stonebrewing.com/sites/default/files/stone_location_banner/kett2.jpg" property="og:image:url"/>
+<title>Stone Company Store - Kettner | Stone Brewing</title>
 <style>
-@import url("http://www.stonebrewing.com/modules/system/system.base.css?ogajyj");
+@import url("http://www.stonebrewing.com/modules/system/system.base.css?ogcbam");
 </style>
 <style>
-@import url("http://www.stonebrewing.com/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.core.min.css?ogajyj");
-@import url("http://www.stonebrewing.com/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.theme.min.css?ogajyj");
-@import url("http://www.stonebrewing.com/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.datepicker.min.css?ogajyj");
+@import url("http://www.stonebrewing.com/sites/all/modules/date/date_api/date.css?ogcbam");
+@import url("http://www.stonebrewing.com/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?ogcbam");
+@import url("http://www.stonebrewing.com/modules/field/theme/field.css?ogcbam");
+@import url("http://www.stonebrewing.com/sites/all/modules/office_hours/office_hours.css?ogcbam");
+@import url("http://www.stonebrewing.com/sites/all/modules/views/css/views.css?ogcbam");
+@import url("http://www.stonebrewing.com/sites/all/modules/ckeditor/css/ckeditor.css?ogcbam");
 </style>
 <style>
-@import url("http://www.stonebrewing.com/sites/all/modules/date/date_api/date.css?ogajyj");
-@import url("http://www.stonebrewing.com/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?ogajyj");
-@import url("http://www.stonebrewing.com/modules/field/theme/field.css?ogajyj");
-@import url("http://www.stonebrewing.com/sites/all/modules/office_hours/office_hours.css?ogajyj");
-@import url("http://www.stonebrewing.com/sites/all/modules/views/css/views.css?ogajyj");
-@import url("http://www.stonebrewing.com/sites/all/modules/ckeditor/css/ckeditor.css?ogajyj");
-</style>
-<style>
-@import url("http://www.stonebrewing.com/sites/all/modules/colorbox/styles/default/colorbox_style.css?ogajyj");
-@import url("http://www.stonebrewing.com/sites/all/modules/ctools/css/ctools.css?ogajyj");
-@import url("http://www.stonebrewing.com/sites/all/modules/oembed/oembed.base.css?ogajyj");
-@import url("http://www.stonebrewing.com/sites/all/modules/oembed/oembed.theme.css?ogajyj");
+@import url("http://www.stonebrewing.com/sites/all/modules/colorbox/styles/default/colorbox_style.css?ogcbam");
+@import url("http://www.stonebrewing.com/sites/all/modules/ctools/css/ctools.css?ogcbam");
+@import url("http://www.stonebrewing.com/sites/all/modules/oembed/oembed.base.css?ogcbam");
+@import url("http://www.stonebrewing.com/sites/all/modules/oembed/oembed.theme.css?ogcbam");
 </style>
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css" media="all" rel="stylesheet" type="text/css"/>
 <style>
-@import url("http://www.stonebrewing.com/sites/all/themes/stone_theme/css/tb_megamenu/bootstrap.css?ogajyj");
-@import url("http://www.stonebrewing.com/sites/all/modules/tb_megamenu/css/base.css?ogajyj");
-@import url("http://www.stonebrewing.com/sites/all/themes/stone_theme/css/tb_megamenu/default.css?ogajyj");
-@import url("http://www.stonebrewing.com/sites/all/modules/tb_megamenu/css/compatibility.css?ogajyj");
+@import url("http://www.stonebrewing.com/sites/all/themes/stone_theme/css/tb_megamenu/bootstrap.css?ogcbam");
+@import url("http://www.stonebrewing.com/sites/all/modules/tb_megamenu/css/base.css?ogcbam");
+@import url("http://www.stonebrewing.com/sites/all/themes/stone_theme/css/tb_megamenu/default.css?ogcbam");
+@import url("http://www.stonebrewing.com/sites/all/modules/tb_megamenu/css/compatibility.css?ogcbam");
 </style>
 <style>.tb-megamenu.animate .mega > .mega-dropdown-menu,.tb-megamenu.animate.slide .mega > .mega-dropdown-menu > div{transition-delay:500ms;-webkit-transition-delay:500ms;-ms-transition-delay:500ms;-o-transition-delay:500ms;transition-duration:750ms;-webkit-transition-duration:750ms;-ms-transition-duration:750ms;-o-transition-duration:750ms;}
 </style>
 <style>
-@import url("http://www.stonebrewing.com/sites/all/modules/webform/css/webform.css?ogajyj");
-</style>
-<style>
-@import url("http://www.stonebrewing.com/sites/all/themes/stone_theme/fonts/stonebrewing/css/stonebrewing.css?ogajyj");
-@import url("http://www.stonebrewing.com/sites/all/themes/stone_theme/css/mb.ytplayer.css?ogajyj");
-@import url("http://www.stonebrewing.com/sites/all/themes/stone_theme/css/morphsearch.css?ogajyj");
-@import url("http://www.stonebrewing.com/sites/all/themes/stone_theme/css/owl.carousel.css?ogajyj");
-@import url("http://www.stonebrewing.com/sites/all/themes/stone_theme/css/owl.transitions.css?ogajyj");
-@import url("http://www.stonebrewing.com/sites/all/themes/stone_theme/css/style.css?ogajyj");
-@import url("http://www.stonebrewing.com/sites/all/themes/stone_theme/css/custom.css?ogajyj");
-@import url("http://www.stonebrewing.com/sites/all/themes/stone_theme/css/responsive.css?ogajyj");
+@import url("http://www.stonebrewing.com/sites/all/themes/stone_theme/fonts/stonebrewing/css/stonebrewing.css?ogcbam");
+@import url("http://www.stonebrewing.com/sites/all/themes/stone_theme/css/mb.ytplayer.css?ogcbam");
+@import url("http://www.stonebrewing.com/sites/all/themes/stone_theme/css/morphsearch.css?ogcbam");
+@import url("http://www.stonebrewing.com/sites/all/themes/stone_theme/css/owl.carousel.css?ogcbam");
+@import url("http://www.stonebrewing.com/sites/all/themes/stone_theme/css/owl.transitions.css?ogcbam");
+@import url("http://www.stonebrewing.com/sites/all/themes/stone_theme/css/style.css?ogcbam");
+@import url("http://www.stonebrewing.com/sites/all/themes/stone_theme/css/custom.css?ogcbam");
+@import url("http://www.stonebrewing.com/sites/all/themes/stone_theme/css/responsive.css?ogcbam");
 </style>
 <!--[if lte IE 9]>
-<link type="text/css" rel="stylesheet" href="http://www.stonebrewing.com/sites/all/themes/stone_theme/css/ie9.css?ogajyj" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.stonebrewing.com/sites/all/themes/stone_theme/css/ie9.css?ogcbam" media="all" />
 <![endif]-->
 <!-- HTML5 element support for IE6-8 -->
 <!--[if lt IE 9]>
@@ -76,52 +70,47 @@
 <script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
 <script src="http://www.stonebrewing.com/sites/all/modules/jquery_update/replace/jquery-migrate/1.2.1/jquery-migrate.min.js?v=1.2.1"></script>
 <script src="http://www.stonebrewing.com/misc/jquery.once.js?v=1.2"></script>
-<script src="http://www.stonebrewing.com/misc/drupal.js?ogajyj"></script>
-<script src="http://www.stonebrewing.com/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.core.min.js?v=1.10.2"></script>
-<script src="http://www.stonebrewing.com/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.datepicker.min.js?v=1.10.2"></script>
-<script src="http://www.stonebrewing.com/modules/locale/locale.datepicker.js?v=1.10.2"></script>
-<script src="http://www.stonebrewing.com/sites/all/modules/admin_menu/admin_devel/admin_devel.js?ogajyj"></script>
-<script src="http://www.stonebrewing.com/sites/all/libraries/colorbox/jquery.colorbox-min.js?ogajyj"></script>
-<script src="http://www.stonebrewing.com/sites/all/modules/colorbox/js/colorbox.js?ogajyj"></script>
-<script src="http://www.stonebrewing.com/sites/all/modules/colorbox/styles/default/colorbox_style.js?ogajyj"></script>
-<script src="http://www.stonebrewing.com/sites/all/modules/colorbox/js/colorbox_inline.js?ogajyj"></script>
-<script src="http://www.stonebrewing.com/sites/all/modules/tb_megamenu/js/tb-megamenu-frontend.js?ogajyj"></script>
-<script src="http://www.stonebrewing.com/sites/all/modules/tb_megamenu/js/tb-megamenu-touch.js?ogajyj"></script>
+<script src="http://www.stonebrewing.com/misc/drupal.js?ogcbam"></script>
+<script src="http://www.stonebrewing.com/sites/all/modules/admin_menu/admin_devel/admin_devel.js?ogcbam"></script>
+<script src="http://www.stonebrewing.com/sites/all/libraries/colorbox/jquery.colorbox-min.js?ogcbam"></script>
+<script src="http://www.stonebrewing.com/sites/all/modules/colorbox/js/colorbox.js?ogcbam"></script>
+<script src="http://www.stonebrewing.com/sites/all/modules/colorbox/styles/default/colorbox_style.js?ogcbam"></script>
+<script src="http://www.stonebrewing.com/sites/all/modules/colorbox/js/colorbox_inline.js?ogcbam"></script>
+<script src="http://www.stonebrewing.com/sites/all/modules/tb_megamenu/js/tb-megamenu-frontend.js?ogcbam"></script>
+<script src="http://www.stonebrewing.com/sites/all/modules/tb_megamenu/js/tb-megamenu-touch.js?ogcbam"></script>
 <script>var switchTo5x = true;var __st_loadLate = true;var useFastShare = true;</script>
 <script src="http://w.sharethis.com/button/buttons.js"></script>
 <script>if (typeof stLight !== 'undefined') { stLight.options({"publisher":"dr-6092af3f-ea5d-6e6f-ec2b-f8df43bbc3f6","version":"5x","doNotCopy":true,"hashAddressBar":false,"doNotHash":true,"onhover":false,"lang":"en"}); }</script>
-<script src="http://www.stonebrewing.com/misc/textarea.js?v=7.50"></script>
-<script src="http://www.stonebrewing.com/sites/all/modules/webform/js/webform.js?ogajyj"></script>
-<script src="http://www.stonebrewing.com/sites/all/themes/stone_theme/bootstrap/js/affix.js?ogajyj"></script>
-<script src="http://www.stonebrewing.com/sites/all/themes/stone_theme/bootstrap/js/alert.js?ogajyj"></script>
-<script src="http://www.stonebrewing.com/sites/all/themes/stone_theme/bootstrap/js/button.js?ogajyj"></script>
-<script src="http://www.stonebrewing.com/sites/all/themes/stone_theme/bootstrap/js/carousel.js?ogajyj"></script>
-<script src="http://www.stonebrewing.com/sites/all/themes/stone_theme/bootstrap/js/collapse.js?ogajyj"></script>
-<script src="http://www.stonebrewing.com/sites/all/themes/stone_theme/bootstrap/js/dropdown.js?ogajyj"></script>
-<script src="http://www.stonebrewing.com/sites/all/themes/stone_theme/bootstrap/js/modal.js?ogajyj"></script>
-<script src="http://www.stonebrewing.com/sites/all/themes/stone_theme/bootstrap/js/tooltip.js?ogajyj"></script>
-<script src="http://www.stonebrewing.com/sites/all/themes/stone_theme/bootstrap/js/popover.js?ogajyj"></script>
-<script src="http://www.stonebrewing.com/sites/all/themes/stone_theme/bootstrap/js/scrollspy.js?ogajyj"></script>
-<script src="http://www.stonebrewing.com/sites/all/themes/stone_theme/bootstrap/js/tab.js?ogajyj"></script>
-<script src="http://www.stonebrewing.com/sites/all/themes/stone_theme/bootstrap/js/transition.js?ogajyj"></script>
-<script src="http://www.stonebrewing.com/sites/all/themes/stone_theme/js/morphsearch.js?ogajyj"></script>
-<script src="http://www.stonebrewing.com/sites/all/themes/stone_theme/js/iframeResizer.min.js?ogajyj"></script>
-<script src="http://www.stonebrewing.com/sites/all/themes/stone_theme/js/modernizr.custom.js?ogajyj"></script>
-<script src="http://www.stonebrewing.com/sites/all/themes/stone_theme/js/moment.min.js?ogajyj"></script>
-<script src="http://www.stonebrewing.com/sites/all/themes/stone_theme/js/jquery.ytplayer.min.js?ogajyj"></script>
-<script src="http://www.stonebrewing.com/sites/all/themes/stone_theme/js/dotdotdot.min.js?ogajyj"></script>
-<script src="http://www.stonebrewing.com/sites/all/themes/stone_theme/js/skrollr.min.js?ogajyj"></script>
-<script src="http://www.stonebrewing.com/sites/all/themes/stone_theme/js/fitvids.js?ogajyj"></script>
-<script src="http://www.stonebrewing.com/sites/all/themes/stone_theme/js/jquery.scrollLock.js?ogajyj"></script>
-<script src="http://www.stonebrewing.com/sites/all/themes/stone_theme/js/jquery.panelarrow.js?ogajyj"></script>
-<script src="http://www.stonebrewing.com/sites/all/themes/stone_theme/js/stone_menu.js?ogajyj"></script>
-<script src="http://www.stonebrewing.com/sites/all/themes/stone_theme/js/owl.carousel.min.js?ogajyj"></script>
-<script src="http://www.stonebrewing.com/sites/all/themes/stone_theme/js/placeholders.min.js?ogajyj"></script>
-<script src="http://www.stonebrewing.com/sites/all/themes/stone_theme/js/flipclock.min.js?ogajyj"></script>
-<script src="http://www.stonebrewing.com/sites/all/themes/stone_theme/js/stone_init.js?ogajyj"></script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"stone_theme","theme_token":"qubaEP6bX7tSEoRYQYGPv0ubnD6wzIpoXSZ3V52VFRE","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.11\/jquery.min.js":1,"0":1,"sites\/all\/modules\/jquery_update\/replace\/jquery-migrate\/1.2.1\/jquery-migrate.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.datepicker.min.js":1,"modules\/locale\/locale.datepicker.js":1,"sites\/all\/modules\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_inline.js":1,"sites\/all\/modules\/tb_megamenu\/js\/tb-megamenu-frontend.js":1,"sites\/all\/modules\/tb_megamenu\/js\/tb-megamenu-touch.js":1,"1":1,"http:\/\/w.sharethis.com\/button\/buttons.js":1,"2":1,"misc\/textarea.js":1,"sites\/all\/modules\/webform\/js\/webform.js":1,"sites\/all\/themes\/stone_theme\/bootstrap\/js\/affix.js":1,"sites\/all\/themes\/stone_theme\/bootstrap\/js\/alert.js":1,"sites\/all\/themes\/stone_theme\/bootstrap\/js\/button.js":1,"sites\/all\/themes\/stone_theme\/bootstrap\/js\/carousel.js":1,"sites\/all\/themes\/stone_theme\/bootstrap\/js\/collapse.js":1,"sites\/all\/themes\/stone_theme\/bootstrap\/js\/dropdown.js":1,"sites\/all\/themes\/stone_theme\/bootstrap\/js\/modal.js":1,"sites\/all\/themes\/stone_theme\/bootstrap\/js\/tooltip.js":1,"sites\/all\/themes\/stone_theme\/bootstrap\/js\/popover.js":1,"sites\/all\/themes\/stone_theme\/bootstrap\/js\/scrollspy.js":1,"sites\/all\/themes\/stone_theme\/bootstrap\/js\/tab.js":1,"sites\/all\/themes\/stone_theme\/bootstrap\/js\/transition.js":1,"sites\/all\/themes\/stone_theme\/js\/morphsearch.js":1,"sites\/all\/themes\/stone_theme\/js\/iframeResizer.min.js":1,"sites\/all\/themes\/stone_theme\/js\/modernizr.custom.js":1,"sites\/all\/themes\/stone_theme\/js\/moment.min.js":1,"sites\/all\/themes\/stone_theme\/js\/jquery.ytplayer.min.js":1,"sites\/all\/themes\/stone_theme\/js\/dotdotdot.min.js":1,"sites\/all\/themes\/stone_theme\/js\/skrollr.min.js":1,"sites\/all\/themes\/stone_theme\/js\/fitvids.js":1,"sites\/all\/themes\/stone_theme\/js\/jquery.scrollLock.js":1,"sites\/all\/themes\/stone_theme\/js\/jquery.panelarrow.js":1,"sites\/all\/themes\/stone_theme\/js\/stone_menu.js":1,"sites\/all\/themes\/stone_theme\/js\/owl.carousel.min.js":1,"sites\/all\/themes\/stone_theme\/js\/placeholders.min.js":1,"sites\/all\/themes\/stone_theme\/js\/flipclock.min.js":1,"sites\/all\/themes\/stone_theme\/js\/stone_init.js":1},"css":{"modules\/system\/system.base.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.datepicker.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/office_hours\/office_hours.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/oembed\/oembed.base.css":1,"sites\/all\/modules\/oembed\/oembed.theme.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"sites\/all\/modules\/tb_megamenu\/css\/bootstrap.css":1,"sites\/all\/modules\/tb_megamenu\/css\/base.css":1,"sites\/all\/modules\/tb_megamenu\/css\/default.css":1,"sites\/all\/modules\/tb_megamenu\/css\/compatibility.css":1,"0":1,"sites\/all\/modules\/webform\/css\/webform.css":1,"sites\/all\/themes\/stone_theme\/fonts\/stonebrewing\/css\/stonebrewing.css":1,"sites\/all\/themes\/stone_theme\/css\/mb.ytplayer.css":1,"sites\/all\/themes\/stone_theme\/css\/morphsearch.css":1,"sites\/all\/themes\/stone_theme\/css\/owl.carousel.css":1,"sites\/all\/themes\/stone_theme\/css\/owl.transitions.css":1,"sites\/all\/themes\/stone_theme\/css\/style.css":1,"sites\/all\/themes\/stone_theme\/css\/custom.css":1,"sites\/all\/themes\/stone_theme\/css\/responsive.css":1,"sites\/all\/themes\/stone_theme\/css\/ie9.css":1}},"colorbox":{"transition":"elastic","speed":"350","opacity":"0.85","slideshow":false,"slideshowAuto":true,"slideshowSpeed":"2500","slideshowStart":"start slideshow","slideshowStop":"stop slideshow","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","overlayClose":true,"maxWidth":"98%","maxHeight":"98%","initialWidth":"400","initialHeight":"400","fixed":true,"scrolling":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"jquery":{"ui":{"datepicker":{"isRTL":false,"firstDay":"0"}}},"urlIsAjaxTrusted":{"\/visit\/outposts\/tap-room":true},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"popoverEnabled":0,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+<script src="http://www.stonebrewing.com/sites/all/themes/stone_theme/bootstrap/js/affix.js?ogcbam"></script>
+<script src="http://www.stonebrewing.com/sites/all/themes/stone_theme/bootstrap/js/alert.js?ogcbam"></script>
+<script src="http://www.stonebrewing.com/sites/all/themes/stone_theme/bootstrap/js/button.js?ogcbam"></script>
+<script src="http://www.stonebrewing.com/sites/all/themes/stone_theme/bootstrap/js/carousel.js?ogcbam"></script>
+<script src="http://www.stonebrewing.com/sites/all/themes/stone_theme/bootstrap/js/collapse.js?ogcbam"></script>
+<script src="http://www.stonebrewing.com/sites/all/themes/stone_theme/bootstrap/js/dropdown.js?ogcbam"></script>
+<script src="http://www.stonebrewing.com/sites/all/themes/stone_theme/bootstrap/js/modal.js?ogcbam"></script>
+<script src="http://www.stonebrewing.com/sites/all/themes/stone_theme/bootstrap/js/tooltip.js?ogcbam"></script>
+<script src="http://www.stonebrewing.com/sites/all/themes/stone_theme/bootstrap/js/popover.js?ogcbam"></script>
+<script src="http://www.stonebrewing.com/sites/all/themes/stone_theme/bootstrap/js/scrollspy.js?ogcbam"></script>
+<script src="http://www.stonebrewing.com/sites/all/themes/stone_theme/bootstrap/js/tab.js?ogcbam"></script>
+<script src="http://www.stonebrewing.com/sites/all/themes/stone_theme/bootstrap/js/transition.js?ogcbam"></script>
+<script src="http://www.stonebrewing.com/sites/all/themes/stone_theme/js/morphsearch.js?ogcbam"></script>
+<script src="http://www.stonebrewing.com/sites/all/themes/stone_theme/js/iframeResizer.min.js?ogcbam"></script>
+<script src="http://www.stonebrewing.com/sites/all/themes/stone_theme/js/modernizr.custom.js?ogcbam"></script>
+<script src="http://www.stonebrewing.com/sites/all/themes/stone_theme/js/moment.min.js?ogcbam"></script>
+<script src="http://www.stonebrewing.com/sites/all/themes/stone_theme/js/jquery.ytplayer.min.js?ogcbam"></script>
+<script src="http://www.stonebrewing.com/sites/all/themes/stone_theme/js/dotdotdot.min.js?ogcbam"></script>
+<script src="http://www.stonebrewing.com/sites/all/themes/stone_theme/js/skrollr.min.js?ogcbam"></script>
+<script src="http://www.stonebrewing.com/sites/all/themes/stone_theme/js/fitvids.js?ogcbam"></script>
+<script src="http://www.stonebrewing.com/sites/all/themes/stone_theme/js/jquery.scrollLock.js?ogcbam"></script>
+<script src="http://www.stonebrewing.com/sites/all/themes/stone_theme/js/jquery.panelarrow.js?ogcbam"></script>
+<script src="http://www.stonebrewing.com/sites/all/themes/stone_theme/js/stone_menu.js?ogcbam"></script>
+<script src="http://www.stonebrewing.com/sites/all/themes/stone_theme/js/owl.carousel.min.js?ogcbam"></script>
+<script src="http://www.stonebrewing.com/sites/all/themes/stone_theme/js/placeholders.min.js?ogcbam"></script>
+<script src="http://www.stonebrewing.com/sites/all/themes/stone_theme/js/flipclock.min.js?ogcbam"></script>
+<script src="http://www.stonebrewing.com/sites/all/themes/stone_theme/js/stone_init.js?ogcbam"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"stone_theme","theme_token":"Tl3gXoB0K4mbF92oLAYISkPv8HZXPnCOgHaRy5aK394","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.11\/jquery.min.js":1,"0":1,"sites\/all\/modules\/jquery_update\/replace\/jquery-migrate\/1.2.1\/jquery-migrate.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_inline.js":1,"sites\/all\/modules\/tb_megamenu\/js\/tb-megamenu-frontend.js":1,"sites\/all\/modules\/tb_megamenu\/js\/tb-megamenu-touch.js":1,"1":1,"http:\/\/w.sharethis.com\/button\/buttons.js":1,"2":1,"sites\/all\/themes\/stone_theme\/bootstrap\/js\/affix.js":1,"sites\/all\/themes\/stone_theme\/bootstrap\/js\/alert.js":1,"sites\/all\/themes\/stone_theme\/bootstrap\/js\/button.js":1,"sites\/all\/themes\/stone_theme\/bootstrap\/js\/carousel.js":1,"sites\/all\/themes\/stone_theme\/bootstrap\/js\/collapse.js":1,"sites\/all\/themes\/stone_theme\/bootstrap\/js\/dropdown.js":1,"sites\/all\/themes\/stone_theme\/bootstrap\/js\/modal.js":1,"sites\/all\/themes\/stone_theme\/bootstrap\/js\/tooltip.js":1,"sites\/all\/themes\/stone_theme\/bootstrap\/js\/popover.js":1,"sites\/all\/themes\/stone_theme\/bootstrap\/js\/scrollspy.js":1,"sites\/all\/themes\/stone_theme\/bootstrap\/js\/tab.js":1,"sites\/all\/themes\/stone_theme\/bootstrap\/js\/transition.js":1,"sites\/all\/themes\/stone_theme\/js\/morphsearch.js":1,"sites\/all\/themes\/stone_theme\/js\/iframeResizer.min.js":1,"sites\/all\/themes\/stone_theme\/js\/modernizr.custom.js":1,"sites\/all\/themes\/stone_theme\/js\/moment.min.js":1,"sites\/all\/themes\/stone_theme\/js\/jquery.ytplayer.min.js":1,"sites\/all\/themes\/stone_theme\/js\/dotdotdot.min.js":1,"sites\/all\/themes\/stone_theme\/js\/skrollr.min.js":1,"sites\/all\/themes\/stone_theme\/js\/fitvids.js":1,"sites\/all\/themes\/stone_theme\/js\/jquery.scrollLock.js":1,"sites\/all\/themes\/stone_theme\/js\/jquery.panelarrow.js":1,"sites\/all\/themes\/stone_theme\/js\/stone_menu.js":1,"sites\/all\/themes\/stone_theme\/js\/owl.carousel.min.js":1,"sites\/all\/themes\/stone_theme\/js\/placeholders.min.js":1,"sites\/all\/themes\/stone_theme\/js\/flipclock.min.js":1,"sites\/all\/themes\/stone_theme\/js\/stone_init.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/office_hours\/office_hours.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/oembed\/oembed.base.css":1,"sites\/all\/modules\/oembed\/oembed.theme.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"sites\/all\/modules\/tb_megamenu\/css\/bootstrap.css":1,"sites\/all\/modules\/tb_megamenu\/css\/base.css":1,"sites\/all\/modules\/tb_megamenu\/css\/default.css":1,"sites\/all\/modules\/tb_megamenu\/css\/compatibility.css":1,"0":1,"sites\/all\/themes\/stone_theme\/fonts\/stonebrewing\/css\/stonebrewing.css":1,"sites\/all\/themes\/stone_theme\/css\/mb.ytplayer.css":1,"sites\/all\/themes\/stone_theme\/css\/morphsearch.css":1,"sites\/all\/themes\/stone_theme\/css\/owl.carousel.css":1,"sites\/all\/themes\/stone_theme\/css\/owl.transitions.css":1,"sites\/all\/themes\/stone_theme\/css\/style.css":1,"sites\/all\/themes\/stone_theme\/css\/custom.css":1,"sites\/all\/themes\/stone_theme\/css\/responsive.css":1,"sites\/all\/themes\/stone_theme\/css\/ie9.css":1}},"colorbox":{"transition":"elastic","speed":"350","opacity":"0.85","slideshow":false,"slideshowAuto":true,"slideshowSpeed":"2500","slideshowStart":"start slideshow","slideshowStop":"stop slideshow","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","overlayClose":true,"maxWidth":"98%","maxHeight":"98%","initialWidth":"400","initialHeight":"400","fixed":true,"scrolling":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"popoverEnabled":0,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
 </meta></meta></head>
-<body class="html not-front not-logged-in no-sidebars page-taxonomy page-taxonomy-term page-taxonomy-term- page-taxonomy-term-236 i18n-en navbar-is-fixed-top taxonomy-vocabulary-26">
+<body class="html not-front not-logged-in no-sidebars page-taxonomy page-taxonomy-term page-taxonomy-term- page-taxonomy-term-241 i18n-en navbar-is-fixed-top taxonomy-vocabulary-26">
 <!-- Google Tag Manager -->
 <noscript><iframe height="0" src="//www.googletagmanager.com/ns.html?id=GTM-MFDZ48" style="display:none;visibility:hidden" width="0"></iframe></noscript>
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -173,7 +162,7 @@
 <div class="tb-megamenu-block tb-block tb-megamenu-block" data-block="views--menu_beer_carousel-block" data-type="block">
 <div class="block-inner">
 <section class="block block-views clearfix" id="block-views-menu-beer-carousel-block">
-<div class="view view-menu-beer-carousel view-id-menu_beer_carousel view-display-id-block view-dom-id-de1b21a3f9634a447641d707c5d3e325">
+<div class="view view-menu-beer-carousel view-id-menu_beer_carousel view-display-id-block view-dom-id-442af4e86b393a0cd09b76f6954f2e3c">
 <div class="view-content">
 <div class="views-group" id="a-href-beer-year-round-releasesYear-Round-Releases-a">
 <h3 class="group-title"><a href="/beer/year-round-releases">Year-Round Releases</a></h3>
@@ -227,7 +216,7 @@
 <span class="abv">5.9%</span><br>
 </br></br></br></a> </div>
 <div class="beer">
-<div class="views-field views-field-field-menu-image-icon"> <a class="active" href="/beer/year-round-releases/stone-ripper"><img alt="" height="300" src="http://www.stonebrewing.com/sites/default/files/styles/beer_menu_icon/public/beer/menu/ripper_can.png?itok=1C0MKsFp" typeof="foaf:Image" width="100"/></a> </div>
+<div class="views-field views-field-field-menu-image-icon"> <a href="/beer/year-round-releases/stone-ripper"><img alt="" height="300" src="http://www.stonebrewing.com/sites/default/files/styles/beer_menu_icon/public/beer/menu/ripper_can.png?itok=1C0MKsFp" typeof="foaf:Image" width="100"/></a> </div>
 <a class="details" href="/beer/year-round-releases/stone-ripper">
 <span class="title">Stone Ripper</span><br>
 <span class="style">Pale Ale</span><br>
@@ -378,7 +367,7 @@
 <div class="tb-megamenu-block tb-block tb-megamenu-block" data-block="stone_blocks--stone_ale_fresh" data-type="block">
 <div class="block-inner">
 <section class="block block-stone-blocks clearfix" id="block-stone-blocks-stone-ale-fresh">
-<a class="box" href="/freshbeer"><h2>IS YOUR BEER FRESH?</h2><p>EXP. 11.07.16</p></a>
+<a class="box" href="/freshbeer"><h2>IS YOUR BEER FRESH?</h2><p>EXP. 11.08.16</p></a>
 </section> <!-- /.block -->
 </div>
 </div>
@@ -437,7 +426,7 @@
 </div>
 </div>
 </li>
-<li class="tb-megamenu-item level-1 mega mega-align-justify dropdown active active-trail" data-alignsub="justify" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="2511" data-level="1" data-type="menu_item" data-xicon="">
+<li class="tb-megamenu-item level-1 mega mega-align-justify dropdown" data-alignsub="justify" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="2511" data-level="1" data-type="menu_item" data-xicon="">
 <a class="dropdown-toggle" href="/visit" title="Visit">
         
     Visit          </a>
@@ -450,17 +439,17 @@
 <div class="block-inner">
 <section class="block block-views clearfix" id="block-views-menu-visit-bistros-block">
 <h2 class="block-title">STONE BREWING WORLD BISTRO &amp; GARDENS</h2>
-<div class="view view-menu-visit-bistros view-id-menu_visit_bistros view-display-id-block clear-accordion view-dom-id-5e47ed250f53bca95780fc8b6636c76a">
+<div class="view view-menu-visit-bistros view-id-menu_visit_bistros view-display-id-block clear-accordion view-dom-id-1edd2dbdeb581d68d97431814635dfb1">
 <div class="view-content">
-<div class="views-bootstrap-accordion-plugin-style panel-group" id="views-bootstrap-accordion-1">
+<div class="views-bootstrap-accordion-plugin-style panel-group" id="views-bootstrap-accordion-2">
 <div class="panel panel-default">
 <div class="panel-heading">
 <h4 class="panel-title">
-<a class="accordion-toggle" data-parent="#views-bootstrap-accordion-1" data-toggle="collapse" href="#collapse-1-0-171">
+<a class="accordion-toggle" data-parent="#views-bootstrap-accordion-2" data-toggle="collapse" href="#collapse-2-0-171">
             Escondido          </a>
 </h4>
 </div>
-<div class="panel-collapse collapse" id="collapse-1-0-171">
+<div class="panel-collapse collapse" id="collapse-2-0-171">
 <div class="panel-body">
 <div class="views-field views-field-field-hours-override"> <div class="field-content"><span class="oh-wrapper"><span class="oh-display today"><span class="oh-display-label" style="width:5.5em">Today</span><span class="oh-display-times oh-display-hours">11:00 am - 9:00 pm<br/></span></span></span></div> </div>
 <div class="views-field views-field-field-phone-number"> <div class="field-content"><a href="/visit/bistros/escondido">760.294.7866</a></div> </div>
@@ -471,11 +460,11 @@
 <div class="panel panel-default">
 <div class="panel-heading">
 <h4 class="panel-title">
-<a class="accordion-toggle" data-parent="#views-bootstrap-accordion-1" data-toggle="collapse" href="#collapse-1-1-171">
+<a class="accordion-toggle" data-parent="#views-bootstrap-accordion-2" data-toggle="collapse" href="#collapse-2-1-171">
             Liberty Station          </a>
 </h4>
 </div>
-<div class="panel-collapse collapse" id="collapse-1-1-171">
+<div class="panel-collapse collapse" id="collapse-2-1-171">
 <div class="panel-body">
 <div class="views-field views-field-field-hours-override"> <div class="field-content"><span class="oh-wrapper"><span class="oh-display today"><span class="oh-display-label" style="width:5.5em">Today</span><span class="oh-display-times oh-display-hours">11:30 am - 9:00 pm<br/></span></span></span></div> </div>
 <div class="views-field views-field-field-phone-number"> <div class="field-content"><a href="/visit/bistros/liberty-station">619.269.2100</a></div> </div>
@@ -486,11 +475,11 @@
 <div class="panel panel-default">
 <div class="panel-heading">
 <h4 class="panel-title">
-<a class="accordion-toggle" data-parent="#views-bootstrap-accordion-1" data-toggle="collapse" href="#collapse-1-2-171">
+<a class="accordion-toggle" data-parent="#views-bootstrap-accordion-2" data-toggle="collapse" href="#collapse-2-2-171">
             Berlin          </a>
 </h4>
 </div>
-<div class="panel-collapse collapse" id="collapse-1-2-171">
+<div class="panel-collapse collapse" id="collapse-2-2-171">
 <div class="panel-body">
 <div class="views-field views-field-field-hours-override"> <div class="field-content"><p>Opening in 2016!</p>
 </div> </div>
@@ -513,7 +502,7 @@
 <div class="block-inner">
 <section class="block block-views clearfix" id="block-views-menu-visit-stores-block">
 <h2 class="block-title">STONE OUTPOSTS</h2>
-<div class="view view-menu-visit-stores view-id-menu_visit_stores view-display-id-block clear-accordion view-dom-id-5f2b66a35031e2eafd4a71c3550287b5">
+<div class="view view-menu-visit-stores view-id-menu_visit_stores view-display-id-block clear-accordion view-dom-id-6aebc3c77502fcb10690ec91fea5d752">
 <div class="view-content">
 <div class="views-bootstrap-accordion-plugin-style panel-group" id="views-bootstrap-accordion-2">
 <div class="panel panel-default">
@@ -642,7 +631,7 @@
 <div class="tb-megamenu-block tb-block tb-megamenu-block" data-block="views--menu_featured_events-block" data-type="block">
 <div class="block-inner">
 <section class="block block-views clearfix" id="block-views-menu-featured-events-block">
-<div class="view view-menu-featured-events view-id-menu_featured_events view-display-id-block view-dom-id-a1859843201b86ed84218c8df511ff17">
+<div class="view view-menu-featured-events view-id-menu_featured_events view-display-id-block view-dom-id-e6fe365a10915d2ec8c91e901a6ef72d">
 <div class="view-header">
 <h2 class="rtecenter">Events at Stone</h2>
 <hr/>
@@ -704,7 +693,7 @@
 <div class="tb-megamenu-column span12 mega-col-nav" data-class="" data-hidewcol="0" data-width="12" id="tb-megamenu-column-12">
 <div class="tb-megamenu-column-inner mega-inner clearfix">
 <ul class="tb-megamenu-subnav mega-nav level-1 items-6">
-<li class="tb-megamenu-item level-2 mega active active-trail" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="3231" data-level="2" data-type="menu_item" data-xicon="">
+<li class="tb-megamenu-item level-2 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="3231" data-level="2" data-type="menu_item" data-xicon="">
 <a href="/visit/outposts/tap-room" title="TAP ROOM">
         
     TAP ROOM          </a>
@@ -741,7 +730,7 @@
 </div>
 </div>
 </li>
-<li class="tb-megamenu-item level-1 mega mega-align-justify dropdown" data-alignsub="justify" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="2521" data-level="1" data-type="menu_item" data-xicon="">
+<li class="tb-megamenu-item level-1 mega mega-align-justify dropdown active active-trail" data-alignsub="justify" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="2521" data-level="1" data-type="menu_item" data-xicon="">
 <a class="dropdown-toggle" href="http://shop.stonebrewing.com/en-us/" title="Shop">
         
     Shop          </a>
@@ -836,7 +825,7 @@
 <div class="tb-megamenu-column span12 mega-col-nav" data-class="" data-hidewcol="0" data-width="12" id="tb-megamenu-column-20">
 <div class="tb-megamenu-column-inner mega-inner clearfix">
 <ul class="tb-megamenu-subnav mega-nav level-1 items-3">
-<li class="tb-megamenu-item level-2 mega dropdown-submenu" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="3266" data-level="2" data-type="menu_item" data-xicon="">
+<li class="tb-megamenu-item level-2 mega dropdown-submenu active active-trail" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="3266" data-level="2" data-type="menu_item" data-xicon="">
 <a class="dropdown-toggle" href="/shop/stores" title="STONE COMPANY STORE">
         
     STONE COMPANY STORE          </a>
@@ -856,7 +845,7 @@
         
     PASADENA          </a>
 </li>
-<li class="tb-megamenu-item level-3 mega" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="3291" data-level="3" data-type="menu_item" data-xicon="">
+<li class="tb-megamenu-item level-3 mega active active-trail" data-alignsub="" data-caption="" data-class="" data-group="0" data-hidesub="0" data-hidewcol="0" data-id="3291" data-level="3" data-type="menu_item" data-xicon="">
 <a href="/visit/outposts/on-kettner" title="On Kettner">
         
     On Kettner          </a>
@@ -1032,7 +1021,7 @@
 <div class="region region-search-col-1">
 <section class="block block-views clearfix" id="block-views-beers-for-search-block">
 <h2 class="block-title">Available Beers</h2>
-<div class="view view-beers-for-search view-id-beers_for_search view-display-id-block view-dom-id-a22d5d7b07d2f8e64feca5f0439c3aa0">
+<div class="view view-beers-for-search view-id-beers_for_search view-display-id-block view-dom-id-5aad5ed16ef4cdeae9a57e1d280eae1c">
 <div class="view-content">
 <div class="views-row views-row-1 views-row-odd views-row-first">
 <div class="views-field views-field-nothing"> <span class="field-content"><a alt="Stone IPA" href="/beer/year-round-releases/stone-ipa">
@@ -1131,7 +1120,7 @@
 <div class="region region-search-col-2">
 <section class="block block-views clearfix" id="block-views-menu-featured-events-block-1">
 <h2 class="block-title">Featured Events</h2>
-<div class="view view-menu-featured-events view-id-menu_featured_events view-display-id-block_1 view-dom-id-a19d4cc38b155b8bd0322e8112bcbc3d">
+<div class="view view-menu-featured-events view-id-menu_featured_events view-display-id-block_1 view-dom-id-54e723d59abdaa84ac55a0d501a33c22">
 <div class="view-content">
 <div class="views-row views-row-1 views-row-odd views-row-first">
 <div class="views-field views-field-nothing"> <span class="field-content"><a alt="New Year's Eve at Escondido" href="/events/new-years-eve-escondido-0">
@@ -1158,7 +1147,7 @@
 <div class="region region-search-col-3">
 <section class="block block-views clearfix" id="block-views-stone-blog-teaser-list-block-1">
 <h2 class="block-title">The Stone Blog</h2>
-<div class="view view-stone-blog-teaser-list view-id-stone_blog_teaser_list view-display-id-block_1 view-dom-id-1a591e8ad7c749f1f64920e09381c026">
+<div class="view view-stone-blog-teaser-list view-id-stone_blog_teaser_list view-display-id-block_1 view-dom-id-cad039fa8495da75c18e5b08811f9c14">
 <div class="view-content">
 <div class="views-row views-row-1 views-row-odd views-row-first">
 <div class="views-field views-field-nothing"> <span class="field-content"><a alt="Because We Give a Wit" href="/blog/beer/2016/because-we-give-wit">
@@ -1240,7 +1229,7 @@
 <div class="breadcrumb-wrapper">
 <ol class="breadcrumb"><li class="first"><a href="/">Home</a></li>
 <li><a href="/visit/">visit</a></li>
-<li class="active last">Stone Brewing Tap Room</li>
+<li class="active last">Stone Company Store - Kettner</li>
 </ol>
 </div>
 </header>
@@ -1248,218 +1237,254 @@
 <div id="skrollr-body">
 <div class="main-container container-fluid">
 <header id="page-header" role="banner">
-<div class="view view-stone-location-info view-id-stone_location_info view-display-id-block view-dom-id-ce592aa636eba564ac880cd9d90b10fc" data-0p="opacity:1; top:0%;" data-95p="opacity:0; top:-20%;" style="background-image: url(/sites/default/files/stone_location_banner/header_taproom.jpg)">
+<div class="view view-stone-location-info view-id-stone_location_info view-display-id-block view-dom-id-5d9d2a4fc47518d20ad6bc10921f8080" data-0p="opacity:1; top:0%;" data-95p="opacity:0; top:-20%;" style="background-image: url(/sites/default/files/stone_location_banner/kett2.jpg)">
 <div class="view-content">
 <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
 <div class="views-field views-field-field-banner-text"> <div class="field-content"></div> </div>
-<div class="views-field views-field-field-banner-logo"> <div class="field-content"><img alt="" height="800" src="http://www.stonebrewing.com/sites/default/files/images/locations/logos/taproom_logo.png" typeof="foaf:Image" width="800"/></div> </div> </div>
+<div class="views-field views-field-field-banner-logo"> <div class="field-content"><img alt="" height="800" src="http://www.stonebrewing.com/sites/default/files/images/locations/logos/scs_kett.png" typeof="foaf:Image" width="800"/></div> </div> </div>
 </div>
 </div> </header> <!-- /#page-header -->
 <div class="row">
 <section class="col-sm-12">
 <a id="main-content"></a>
-<h1 class="page-header">Stone Brewing Tap Room</h1>
+<h1 class="page-header">Stone Company Store - Kettner</h1>
 <div class="region region-content">
 <section class="block block-system clearfix" id="block-system-main">
-<div class="term-listing-heading"><div class="taxonomy-term vocabulary-stone-locations" id="taxonomy-term-236">
+<div class="term-listing-heading"><div class="taxonomy-term vocabulary-stone-locations" id="taxonomy-term-241">
 <div class="clearfix row">
 <!-- MAKE A RESERVATION -->
 <div class="row" id="reservation">
 <div class="container">
-<div class="tbl-link col-sm-12"><a href="#menu"><span class="glyphicon glyphicon-cutlery"></span> EXPLORE OUR MENU</a></div> </div>
+<div class="reservation-empty"></div> </div>
 </div>
 <!-- END MAKE A RESERVATION -->
 <!-- PRIMARY LOCATION -->
 <div class="row" id="bistro">
 <div class="col-md-6 slideshow slideshow-left">
-<div class="field field-name-field-primary-images field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><div class="stone-bgimage" style="background-image:url(http://www.stonebrewing.com/sites/default/files/images/locations/2o3a0743.jpg);"></div>
-</div><div class="field-item odd"><div class="stone-bgimage" style="background-image:url(http://www.stonebrewing.com/sites/default/files/images/locations/tap-room-opening-1.jpg);"></div>
-</div><div class="field-item even"><div class="stone-bgimage" style="background-image:url(http://www.stonebrewing.com/sites/default/files/images/locations/2o3a0746.jpg);"></div>
-</div><div class="field-item odd"><div class="stone-bgimage" style="background-image:url(http://www.stonebrewing.com/sites/default/files/images/locations/2o3a0724.jpg);"></div>
-</div><div class="field-item even"><div class="stone-bgimage" style="background-image:url(http://www.stonebrewing.com/sites/default/files/images/locations/tap-room-opening-13.jpg-.jpg);"></div>
-</div><div class="field-item odd"><div class="stone-bgimage" style="background-image:url(http://www.stonebrewing.com/sites/default/files/images/locations/2o3a9874.jpg);"></div>
+<div class="field field-name-field-primary-images field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><div class="stone-bgimage" style="background-image:url(http://www.stonebrewing.com/sites/default/files/images/locations/kettner.jpg);"></div>
+</div><div class="field-item odd"><div class="stone-bgimage" style="background-image:url(http://www.stonebrewing.com/sites/default/files/images/locations/kettner-16.jpg);"></div>
+</div><div class="field-item even"><div class="stone-bgimage" style="background-image:url(http://www.stonebrewing.com/sites/default/files/images/locations/kettner-12.jpg);"></div>
+</div><div class="field-item odd"><div class="stone-bgimage" style="background-image:url(http://www.stonebrewing.com/sites/default/files/images/locations/kettner-10.jpg);"></div>
 </div></div></div> </div>
 <div class="col-md-6 right-content width-limit clearfix">
-<div class="field field-name-field-primary-title field-type-text field-label-hidden h3"><div class="field-items"><div class="field-item even">Stone Brewing Tap Room</div></div></div> <div class="field field-name-field-primary-description field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>Located adjacent to the stadium on the edge of the lush, green Park at the Park, the Stone Brewing Tap Room is a 4,800-square-foot space we spent the first quarter of 2014 converting from a wine bar into a craft beer refuge matching the décor of our industrial-modern Stone Brewing World Bistro &amp; Gardens restaurants. In many ways, it’s a scaled-down version of the Stone experience, but you can expect the same vibrant flavor Stone beers are known for. A line of 16 taps keeps our brews, including special releases, collaboration beers, and even unique casks and small batch creations, flowing. Bottles are also available to enjoy here or take away.</p>
-<p>Stone Brewing Tap Room’s similarity to our Bistros carries over to the fact they serve up tasty edibles made from farm-fresh ingredients. The latest menu is available below.</p>
-<p>Best of all, Stone Brewing Tap Room is open all year long, so a devout love of baseball isn’t a requirement. (Though, during the season, you can see the games broadcast via the exterior Jumbotron on the ballpark’s perimeter—a definite bonus for sports fans!)</p>
+<div class="field field-name-field-primary-title field-type-text field-label-hidden h3"><div class="field-items"><div class="field-item even">Stone Company Store - On Kettner</div></div></div> <div class="field field-name-field-primary-description field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>Explore and enjoy Stone beer in a relaxed, intimate setting framed by our signature architectural elements of concrete, stone, metal, reclaimed wood, plant life and natural lighting. Stone Company Store - On Kettner is a tasting room and retail store with a patio garden in the nationally registered historic McClintock Warehouse building, less than a block from the landmark Santa Fe Depot train station. Working with the City of San Diego Historic Department, we helped maintain the historic storefront façade while integrating the historic interior building elements into our overall design. One such historic element meant incorporating the old storage unit’s numbers and signage into the store’s design. Stone planned the exterior landscaping to complement the building’s architecture and created a scheme that blends the interior space into the landscaped patio area.</p>
+<p>Our unique tasting experience features numerous rotating taps of Stone Brewing beers, including year-round beers, special and one-time releases, and periodic archived vintages. Purchase growler fills of fresh Stone beer, kegs, bottles, and Stone Brewing merchandise and gifts ranging from favorite staples to uncommon novelties, including t-shirts, glassware, soap, candles, dog treats, jewelry, books and more.</p>
+<p> </p>
 </div></div></div> <div class="col-sm-6 text-center location-visit">
 <h3 class="visit">VISIT</h3>
-<a class="map-link" href="https://www.google.com/maps/dir/Current+Location/795+J+Street+San+Diego+CA+92101" target="_blank">
-<span class="location-address">795 J Street<br>San Diego, CA 92101</br></span> </a>
-<div class="field field-name-field-phone-number field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">619.727.4452</div></div></div> <div class="location-socials">
-<div class="field field-name-field-facebook-link field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even"><a href="https://www.facebook.com/StoneBrewingTapRoom" target="_blank"><i class="icon-facebook"></i></a></div></div></div> <div class="field field-name-field-instagram-link field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even"><a href="https://www.instagram.com/stonebrewingtaproom/" target="_blank"><i class="icon-instagram"></i></a></div></div></div> </div>
+<a class="map-link" href="https://www.google.com/maps/dir/Current+Location/1202+Kettner+Blvd,+Suite+101+San+Diego+CA+92101" target="_blank">
+<span class="location-address">1202 Kettner Blvd, Suite 101<br>San Diego, CA 92101</br></span> </a>
+<div class="field field-name-field-phone-number field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">619.450.4518</div></div></div> <div class="location-socials">
+<div class="field field-name-field-facebook-link field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even"><a href="https://www.facebook.com/StoneStoreOnKettner" target="_blank"><i class="icon-facebook"></i></a></div></div></div> <div class="field field-name-field-twitter-link field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even"><a href="https://twitter.com/stonestore" target="_blank"><i class="icon-twitter"></i></a></div></div></div> <div class="field field-name-field-instagram-link field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even"><a href="https://www.instagram.com/stonecompanystores/" target="_blank"><i class="icon-instagram"></i></a></div></div></div> </div>
 </div>
 <div class="col-sm-6 text-center">
 <h3 class="hours">HOURS</h3>
-<div class="field field-name-field-hours-of-operation field-type-office-hours field-label-hidden"><div class="field-items"><div class="field-item even"><span class="oh-wrapper"><span class="oh-display"><span class="oh-display-label" style="width:5.5em">Sunday</span><span class="oh-display-times oh-display-hours">12:00 pm - 9:00 pm<br/></span></span><span class="oh-display today"><span class="oh-display-label" style="width:5.5em">Today</span><span class="oh-display-times oh-display-hours">11:00 am - 9:00 pm<br/></span></span><span class="oh-display"><span class="oh-display-label" style="width:5.5em">Tuesday</span><span class="oh-display-times oh-display-hours">11:00 am - 9:00 pm<br/></span></span><span class="oh-display"><span class="oh-display-label" style="width:5.5em">Wednesday</span><span class="oh-display-times oh-display-hours">11:00 am - 9:00 pm<br/></span></span><span class="oh-display"><span class="oh-display-label" style="width:5.5em">Thursday</span><span class="oh-display-times oh-display-hours">11:00 am - 9:00 pm<br/></span></span><span class="oh-display"><span class="oh-display-label" style="width:5.5em">Friday</span><span class="oh-display-times oh-display-hours">12:00 pm - 11:00 pm<br/></span></span><span class="oh-display"><span class="oh-display-label" style="width:5.5em">Saturday</span><span class="oh-display-times oh-display-hours">12:00 pm - 11:00 pm<br/></span></span></span></div></div></div></div></div></div></div></div></div></section></div></section></div></div></div></body></html> 
+<div class="field field-name-field-hours-of-operation field-type-office-hours field-label-hidden"><div class="field-items"><div class="field-item even"><span class="oh-wrapper"><span class="oh-display"><span class="oh-display-label" style="width:5.5em">Sunday</span><span class="oh-display-times oh-display-hours">11:00 am - 9:00 pm<br/></span></span><span class="oh-display"><span class="oh-display-label" style="width:5.5em">Monday</span><span class="oh-display-times oh-display-hours">4:00 pm - 9:00 pm<br/></span></span><span class="oh-display today"><span class="oh-display-label" style="width:5.5em">Today</span><span class="oh-display-times oh-display-hours">4:00 pm - 9:00 pm<br/></span></span><span class="oh-display"><span class="oh-display-label" style="width:5.5em">Wednesday</span><span class="oh-display-times oh-display-hours">4:00 pm - 9:00 pm<br/></span></span><span class="oh-display"><span class="oh-display-label" style="width:5.5em">Thursday</span><span class="oh-display-times oh-display-hours">4:00 pm - 9:00 pm<br/></span></span><span class="oh-display"><span class="oh-display-label" style="width:5.5em">Friday</span><span class="oh-display-times oh-display-hours">11:00 am - 10:00 pm<br/></span></span><span class="oh-display"><span class="oh-display-label" style="width:5.5em">Saturday</span><span class="oh-display-times oh-display-hours">11:00 am - 10:00 pm<br/></span></span></span><h5><a class="colorbox-inline" href="?inline=true#field_hours_of_operation_modal">SHOW UPCOMING SPECIAL HOURS</a></h5><div class="hide" id="special-hours-modal"><div id="field_hours_of_operation_modal" style="padding: 35px; width: 500px; max-width: 100%;"><h3 class="upcoming-hours-heading">Upcoming Special Hours</h3><p class="special-hours"><span class="description">Thanksgiving Eve</span><br/><span class="day">Wednesday, November 23</span>: <span class="time">2:00 pm - 10:00 pm</span></p><p class="special-hours"><span class="description">Thanksgiving</span><br/><span class="day">Thursday, November 24</span>: <span class="time">CLOSED</span></p><p class="special-hours"><span class="description">Christmas Eve</span><br/><span class="day">Saturday, December 24</span>: <span class="time">11:00 am - 5:00 pm</span></p><p class="special-hours"><span class="description">Christmas Day</span><br/><span class="day">Sunday, December 25</span>: <span class="time">CLOSED</span></p><p class="special-hours"><span class="description">New Year's Eve</span><br/><span class="day">Saturday, December 31</span>: <span class="time">11:00 am - 6:00 pm</span></p><p class="special-hours"><span class="description">New Year's Day</span><br/><span class="day">Sunday, January 1</span>: <span class="time">12:00 pm - 6:00 pm</span></p></div></div></div></div></div></div></div></div></div></div></div></section></div></section></div></div></div></body></html> 
 
 
 <!-- END PRIMARY LOCATION -->
 <!-- EVENTS -->
 <div class="container-fluid">
 <div class="row" id="location-events">
-<div class="view view-upcoming-events-from-term view-id-upcoming_events_from_term view-display-id-block_1 view-dom-id-2c3d03c1101063e12a6afafb6ee137c3">
+<div class="view view-upcoming-events-from-term view-id-upcoming_events_from_term view-display-id-block_1 view-dom-id-09f89443d285e52728a91398bb3776db">
 <div class="view-header">
-      Stone Brewing Tap Room Events    </div>
+      Stone Company Store - Kettner Events    </div>
 <div class="view-content">
-<div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+<div class="views-row views-row-1 views-row-odd views-row-first">
+<div class="views-field views-field-nothing"> <span class="field-content"><a href="/events/sdbw-2016-vintage-tuesday-0">
+<div class="views-field-field-category">San Diego Beer Week</div>
+<div class="views-field-field-thumbnail-image"><img alt="" height="199" src="http://www.stonebrewing.com/sites/default/files/styles/event_teaser/public/event_thumbnail/sdbw_2016-logo.png?itok=KUkYrtKN" typeof="foaf:Image" width="300"/><div class="arrow"><i class="icon-arrow-right"></i></div></div>
+<div class="views-field-field-date"><span class="date-display-single" content="2016-11-08T00:00:00-08:00" datatype="xsd:dateTime" property="dc:date">Tuesday, November 8, 2016</span></div>
+<div class="views-field-title">SDBW 2016: Vintage Tuesday</div>
+</a></span> </div> </div>
+<div class="views-row views-row-2 views-row-even">
+<div class="views-field views-field-nothing"> <span class="field-content"><a href="/events/sdbw-2016-collaboration-wednesday-0">
+<div class="views-field-field-category">San Diego Beer Week</div>
+<div class="views-field-field-thumbnail-image"><img alt="" height="199" src="http://www.stonebrewing.com/sites/default/files/styles/event_teaser/public/event_thumbnail/sdbw_2016-logo.png?itok=KUkYrtKN" typeof="foaf:Image" width="300"/><div class="arrow"><i class="icon-arrow-right"></i></div></div>
+<div class="views-field-field-date"><span class="date-display-single" content="2016-11-09T00:00:00-08:00" datatype="xsd:dateTime" property="dc:date">Wednesday, November 9, 2016</span></div>
+<div class="views-field-title">SDBW 2016: Collaboration Wednesday</div>
+</a></span> </div> </div>
+<div class="views-row views-row-3 views-row-odd">
+<div class="views-field views-field-nothing"> <span class="field-content"><a href="/events/sdbw-2016-liberty-station-brews-thursday-0">
+<div class="views-field-field-category">San Diego Beer Week</div>
+<div class="views-field-field-thumbnail-image"><img alt="" height="199" src="http://www.stonebrewing.com/sites/default/files/styles/event_teaser/public/event_thumbnail/sdbw_2016-logo.png?itok=KUkYrtKN" typeof="foaf:Image" width="300"/><div class="arrow"><i class="icon-arrow-right"></i></div></div>
+<div class="views-field-field-date"><span class="date-display-single" content="2016-11-10T00:00:00-08:00" datatype="xsd:dateTime" property="dc:date">Thursday, November 10, 2016</span></div>
+<div class="views-field-title">SDBW 2016: Liberty Station Brews Thursday</div>
+</a></span> </div> </div>
+<div class="views-row views-row-4 views-row-even">
+<div class="views-field views-field-nothing"> <span class="field-content"><a href="/events/sdbw-2016-weekend-growler-fill-2">
+<div class="views-field-field-category">San Diego Beer Week</div>
+<div class="views-field-field-thumbnail-image"><img alt="" height="199" src="http://www.stonebrewing.com/sites/default/files/styles/event_teaser/public/event_thumbnail/sdbw_2016-logo.png?itok=KUkYrtKN" typeof="foaf:Image" width="300"/><div class="arrow"><i class="icon-arrow-right"></i></div></div>
+<div class="views-field-field-date"><span class="date-display-single" content="2016-11-11T00:00:00-08:00" datatype="xsd:dateTime" property="dc:date">Friday, November 11, 2016</span></div>
+<div class="views-field-title">SDBW 2016: Weekend Growler Fill</div>
+</a></span> </div> </div>
+<div class="views-row views-row-5 views-row-odd">
+<div class="views-field views-field-nothing"> <span class="field-content"><a href="/events/sdbw-2016-secret-tap-saturday-0">
+<div class="views-field-field-category">San Diego Beer Week</div>
+<div class="views-field-field-thumbnail-image"><img alt="" height="199" src="http://www.stonebrewing.com/sites/default/files/styles/event_teaser/public/event_thumbnail/sdbw_2016-logo.png?itok=KUkYrtKN" typeof="foaf:Image" width="300"/><div class="arrow"><i class="icon-arrow-right"></i></div></div>
+<div class="views-field-field-date"><span class="date-display-single" content="2016-11-12T00:00:00-08:00" datatype="xsd:dateTime" property="dc:date">Saturday, November 12, 2016</span></div>
+<div class="views-field-title">SDBW 2016: Secret Tap Saturday</div>
+</a></span> </div> </div>
+<div class="views-row views-row-6 views-row-even">
 <div class="views-field views-field-nothing"> <span class="field-content"><a href="/events/2016-stygian-descent-california-stone-brewing-locations">
 <div class="views-field-field-category">Store: Special Bottle Releases</div>
 <div class="views-field-field-thumbnail-image"><img alt="" height="199" src="http://www.stonebrewing.com/sites/default/files/styles/event_teaser/public/event_thumbnail/stygian.png?itok=ChqVyUPC" typeof="foaf:Image" width="300"/><div class="arrow"><i class="icon-arrow-right"></i></div></div>
 <div class="views-field-field-date"><span class="date-display-single" content="2016-11-13T00:00:00-08:00" datatype="xsd:dateTime" property="dc:date">Sunday, November 13, 2016</span></div>
 <div class="views-field-title">2016 Stygian Descent (California Stone Brewing Locations)</div>
 </a></span> </div> </div>
+<div class="views-row views-row-7 views-row-odd">
+<div class="views-field views-field-nothing"> <span class="field-content"><a href="/events/sdbw-2016-new-release-sunday-0">
+<div class="views-field-field-category">San Diego Beer Week</div>
+<div class="views-field-field-thumbnail-image"><img alt="" height="199" src="http://www.stonebrewing.com/sites/default/files/styles/event_teaser/public/event_thumbnail/sdbw_2016-logo.png?itok=KUkYrtKN" typeof="foaf:Image" width="300"/><div class="arrow"><i class="icon-arrow-right"></i></div></div>
+<div class="views-field-field-date"><span class="date-display-single" content="2016-11-13T00:00:00-08:00" datatype="xsd:dateTime" property="dc:date">Sunday, November 13, 2016</span></div>
+<div class="views-field-title">SDBW 2016: New Release Sunday</div>
+</a></span> </div> </div>
+<div class="views-row views-row-8 views-row-even views-row-last">
+<div class="views-field views-field-nothing"> <span class="field-content"><a href="/events/stone-enjoy-122516-unfiltered-ipa-california-company-stores">
+<div class="views-field-field-category">Store: Special Bottle Releases</div>
+<div class="views-field-field-thumbnail-image"><img alt="" height="199" src="http://www.stonebrewing.com/sites/default/files/styles/event_teaser/public/event_thumbnail/enjoyby_122516.png?itok=wwExyo-o" typeof="foaf:Image" width="300"/><div class="arrow"><i class="icon-arrow-right"></i></div></div>
+<div class="views-field-field-date"><span class="date-display-single" content="2016-11-21T00:00:00-08:00" datatype="xsd:dateTime" property="dc:date">Monday, November 21, 2016</span></div>
+<div class="views-field-title">Stone Enjoy By 12.25.16 Unfiltered IPA (California Company Stores)</div>
+</a></span> </div> </div>
 </div>
 </div> </div>
 </div>
 <!-- END EVENTS -->
-<!-- BISTRO MENU -->
-<div class="row menu-bg" id="menu">
-<div class="col-md-6 slideshow slideshow-left desktop-only">
-<div class="field field-name-field-menu-images field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><div class="stone-bgimage" style="background-image:url(http://www.stonebrewing.com/sites/default/files/images/menu/pizza2.jpg);"></div>
-</div><div class="field-item odd"><div class="stone-bgimage" style="background-image:url(http://www.stonebrewing.com/sites/default/files/images/menu/salad-2.jpg);"></div>
-</div><div class="field-item even"><div class="stone-bgimage" style="background-image:url(http://www.stonebrewing.com/sites/default/files/images/menu/pizza2-2.jpg);"></div>
-</div><div class="field-item odd"><div class="stone-bgimage" style="background-image:url(http://www.stonebrewing.com/sites/default/files/images/menu/pretzels.jpg);"></div>
-</div><div class="field-item even"><div class="stone-bgimage" style="background-image:url(http://www.stonebrewing.com/sites/default/files/images/menu/salad_0.jpg);"></div>
-</div><div class="field-item odd"><div class="stone-bgimage" style="background-image:url(http://www.stonebrewing.com/sites/default/files/images/menu/taproommenus.jpg);"></div>
-</div></div></div> </div>
-<div class="col-md-6 right-content width-limit">
-<h3>MENUS</h3>
-<div class="field field-name-field-menu-paragraph field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>Stone Brewing Tap Room serves up tasty edibles made from farm-fresh ingredients. The latest menu is available below.</p>
-</div></div></div> <div class="view view-location-menus view-id-location_menus view-display-id-default view-dom-id-cf2c333994f56ac3c64a30d328428938">
-<div class="view-content">
-<div class="views-row views-row-1 views-row-odd views-row-first">
-<div class="views-field views-field-nothing"> <span class="field-content"><a href="/visit/outposts/tap-room/food">Food <i class="icon-arrow-right"></i></a></span> </div> </div>
-<div class="views-row views-row-2 views-row-even views-row-last">
-<div class="views-field views-field-nothing"> <span class="field-content"><a href="/visit/outposts/tap-room/beer-wine-beverages">Beer, Wine &amp; Beverages <i class="icon-arrow-right"></i></a></span> </div> </div>
-</div>
-</div> </div>
-</div>
-<!-- END BISTRO MENU -->
 <!-- GROWLER FILLS -->
 <div class="container growlers">
 <div class="row text-center" id="growler-fills">
-<div class="col-md-12"><h3>Currently On Draft</h3><p class="growler-info"><a href="/shop/getting-beer-stone">Read our policies for getting beer at Stone <i class="icon-arrow-right"></i></a></p><p class="growler-disclaimer">All beers available on a first come, first served basis. Some limits may apply.</p><h5>Beers from Stone Brewing</h5><div class="view view-location-currently-available-fills view-id-location_currently_available_fills view-display-id-stone_fills view-dom-id-bd53a3171808268a86803c89b1948713">
+<div class="col-md-6"><h3>Currently On Draft</h3><p class="growler-info"><a href="/shop/getting-beer-stone">Read our policies for getting beer at Stone <i class="icon-arrow-right"></i></a></p><p class="growler-disclaimer">All beers available on a first come, first served basis. Some limits may apply.</p><h5>Beers from Stone Brewing</h5><div class="view view-location-currently-available-fills view-id-location_currently_available_fills view-display-id-stone_fills view-dom-id-c8b521b642650f2553c10ffd006236e7">
 <div class="view-content">
 <div class="views-row views-row-1 views-row-odd views-row-first">
-<div class="views-field views-field-title"> <span class="field-content">Stone Go To IPA</span> </div> </div>
-<div class="views-row views-row-2 views-row-even">
-<div class="views-field views-field-title"> <span class="field-content">Stone IPA</span> </div> </div>
-<div class="views-row views-row-3 views-row-odd">
 <div class="views-field views-field-title"> <span class="field-content">Stone Delicious IPA</span> </div> </div>
+<div class="views-row views-row-2 views-row-even">
+<div class="views-field views-field-title"> <span class="field-content">Stone Brewing World Bistro &amp; Gardens - Liberty Station Commander in the Crosshairs</span> </div> </div>
+<div class="views-row views-row-3 views-row-odd">
+<div class="views-field views-field-title"> <span class="field-content">Stone Brewing World Bistro &amp; Gardens - Liberty Station/Bitter Brothers Jerkemon Go</span> </div> </div>
 <div class="views-row views-row-4 views-row-even">
-<div class="views-field views-field-title"> <span class="field-content">Stone Ruination Double IPA 2.0</span> </div> </div>
-<div class="views-row views-row-5 views-row-odd">
-<div class="views-field views-field-title"> <span class="field-content">Stone Coffee Milk Stout</span> </div> </div>
-<div class="views-row views-row-6 views-row-even">
-<div class="views-field views-field-title"> <span class="field-content">Stone Mint Coffee Milk Stout</span> </div> </div>
-<div class="views-row views-row-7 views-row-odd">
 <div class="views-field views-field-title"> <span class="field-content">Stone Ripper</span> </div> </div>
+<div class="views-row views-row-5 views-row-odd">
+<div class="views-field views-field-title"> <span class="field-content">Stone Pilot: White IPA</span> </div> </div>
+<div class="views-row views-row-6 views-row-even">
+<div class="views-field views-field-title"> <span class="field-content">Stone Pilot - Red IPA</span> </div> </div>
+<div class="views-row views-row-7 views-row-odd">
+<div class="views-field views-field-title"> <span class="field-content">Stone Cali-Belgique IPA aged in White Wine Barrels</span> </div> </div>
 <div class="views-row views-row-8 views-row-even">
-<div class="views-field views-field-title"> <span class="field-content">Stone Brewing World Bistro &amp; Gardens - Liberty Station Mättzen</span> </div> </div>
-<div class="views-row views-row-9 views-row-odd">
 <div class="views-field views-field-title"> <span class="field-content">Stone Xocoveza</span> </div> </div>
-<div class="views-row views-row-10 views-row-even">
+<div class="views-row views-row-9 views-row-odd">
 <div class="views-field views-field-title"> <span class="field-content">Stone Pilot Series: 612 Wheat Double IPA</span> </div> </div>
+<div class="views-row views-row-10 views-row-even">
+<div class="views-field views-field-title"> <span class="field-content">Stone 20th Anniversary Encore Series: Beachwood / Heretic / Stone Still Unapologetic IPA</span> </div> </div>
 <div class="views-row views-row-11 views-row-odd">
 <div class="views-field views-field-title"> <span class="field-content">20th Anniversary Encore Series: Stone 14th Anniversary Emperial IPA</span> </div> </div>
 <div class="views-row views-row-12 views-row-even">
-<div class="views-field views-field-title"> <span class="field-content">Stone Mixtape Ale vol.15 - Brett the Rockies </span> </div> </div>
+<div class="views-field views-field-title"> <span class="field-content">Stone 20th Anniversary Citracado IPA</span> </div> </div>
 <div class="views-row views-row-13 views-row-odd">
+<div class="views-field views-field-title"> <span class="field-content">Stone Mixtape Ale vol.15 - Brett the Rockies </span> </div> </div>
+<div class="views-row views-row-14 views-row-even">
 <div class="views-field views-field-title"> <span class="field-content">Stone Enjoy By 11.25.16 IPA</span> </div> </div>
-<div class="views-row views-row-14 views-row-even views-row-last">
-<div class="views-field views-field-title"> <span class="field-content">Stone Barrel Aged Milk Chocolate Porter</span> </div> </div>
+<div class="views-row views-row-15 views-row-odd views-row-last">
+<div class="views-field views-field-title"> <span class="field-content">20th Anniversary Encore Series: Stone 10th Anniversary IPA</span> </div> </div>
 </div>
-</div><h5>Beers from Arrogant Brewing</h5><div class="view view-location-currently-available-fills view-id-location_currently_available_fills view-display-id-bastard_fills view-dom-id-98e1d16bffab32e9657d6c73dcd551c7">
+</div><h5>Beers from Arrogant Brewing</h5><div class="view view-location-currently-available-fills view-id-location_currently_available_fills view-display-id-bastard_fills view-dom-id-37095c6013b5ab8ab62a98f2cacf461f">
 <div class="view-content">
 <div class="views-row views-row-1 views-row-odd views-row-first">
-<div class="views-field views-field-title"> <span class="field-content">Lukcy Basartd Ale</span> </div> </div>
-<div class="views-row views-row-2 views-row-even views-row-last">
-<div class="views-field views-field-title"> <span class="field-content">2005 Double Bastard Ale</span> </div> </div>
+<div class="views-field views-field-title"> <span class="field-content">Arrogant Brewing Pilot: Lil' Bastard Ale w/ Spanish Cedar</span> </div> </div>
+<div class="views-row views-row-2 views-row-even">
+<div class="views-field views-field-title"> <span class="field-content">Arrogant Brewing Pilot: Rye Stout</span> </div> </div>
+<div class="views-row views-row-3 views-row-odd">
+<div class="views-field views-field-title"> <span class="field-content">Arrogant Bastard Ale</span> </div> </div>
+<div class="views-row views-row-4 views-row-even">
+<div class="views-field views-field-title"> <span class="field-content">2016 Lukcy Basartd Ale</span> </div> </div>
+<div class="views-row views-row-5 views-row-odd views-row-last">
+<div class="views-field views-field-title"> <span class="field-content">2016 Double Bastard Ale </span> </div> </div>
+</div>
+</div></div><div class="col-md-6"><h3>Upcoming Special Taps</h3><p class="growler-info"><a href="/shop/growler-fills">Join the growler fills newsletter <i class="icon-arrow-right"></i></a></p><div class="view view-stone-location-growler-fill-list view-id-stone_location_growler_fill_list view-display-id-block view-dom-id-8e95aee90ad32203b071b5616cea8e19">
+<div class="view-header">
+<h2>Growler Fills</h2> </div>
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first clearfix">
+<div class="views-field views-field-field-date"> <div class="field-content"><span class="date-display-single" content="2016-11-08T00:00:00-08:00" datatype="xsd:dateTime" property="dc:date">Tuesday, November 8</span></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/events/sdbw-2016-vintage-tuesday">SDBW 2016: Vintage Tuesday</a></span> </div> </div>
+<div class="views-row views-row-2 views-row-even clearfix">
+<div class="views-field views-field-field-date"> <div class="field-content"><span class="date-display-single" content="2016-11-09T00:00:00-08:00" datatype="xsd:dateTime" property="dc:date">Wednesday, November 9</span></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/events/sdbw-2016-collaboration-wednesday">SDBW 2016: Collaboration Wednesday</a></span> </div> </div>
+<div class="views-row views-row-3 views-row-odd clearfix">
+<div class="views-field views-field-field-date"> <div class="field-content"><span class="date-display-single" content="2016-11-10T00:00:00-08:00" datatype="xsd:dateTime" property="dc:date">Thursday, November 10</span></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/events/sdbw-2016-liberty-station-brews-thursday">SDBW 2016: Liberty Station Brews Thursday</a></span> </div> </div>
+<div class="views-row views-row-4 views-row-even clearfix">
+<div class="views-field views-field-field-date"> <div class="field-content"><span class="date-display-single" content="2016-11-11T00:00:00-08:00" datatype="xsd:dateTime" property="dc:date">Friday, November 11</span></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/events/sdbw-2016-weekend-growler-fill-0">SDBW 2016: Weekend Growler Fill</a></span> </div> </div>
+<div class="views-row views-row-5 views-row-odd clearfix">
+<div class="views-field views-field-field-date"> <div class="field-content"><span class="date-display-single" content="2016-11-11T00:00:00-08:00" datatype="xsd:dateTime" property="dc:date">Friday, November 11</span></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/events/stone-company-store-kettner-3rd-anniversary-celebration">Stone Company Store - On Kettner 3rd Anniversary Celebration</a></span> </div> </div>
+<div class="views-row views-row-6 views-row-even clearfix">
+<div class="views-field views-field-field-date"> <div class="field-content"><span class="date-display-single" content="2016-11-11T00:00:00-08:00" datatype="xsd:dateTime" property="dc:date">Friday, November 11</span></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/events/stone-company-store-kettner-3rd-anniversary-celebration">Stone Company Store - On Kettner 3rd Anniversary Celebration</a></span> </div> </div>
+<div class="views-row views-row-7 views-row-odd clearfix">
+<div class="views-field views-field-field-date"> <div class="field-content"><span class="date-display-single" content="2016-11-12T00:00:00-08:00" datatype="xsd:dateTime" property="dc:date">Saturday, November 12</span></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/events/sdbw-2016-secret-tap-saturday">SDBW 2016: Secret Tap Saturday</a></span> </div> </div>
+<div class="views-row views-row-8 views-row-even clearfix">
+<div class="views-field views-field-field-date"> <div class="field-content"><span class="date-display-single" content="2016-11-13T00:00:00-08:00" datatype="xsd:dateTime" property="dc:date">Sunday, November 13</span></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/events/sdbw-2016-new-release-sunday">SDBW 2016: New Release Sunday</a></span> </div> </div>
+<div class="views-row views-row-9 views-row-odd clearfix">
+<div class="views-field views-field-field-date"> <div class="field-content"><span class="date-display-single" content="2016-11-15T00:00:00-08:00" datatype="xsd:dateTime" property="dc:date">Tuesday, November 15</span></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/events/stone-winter-harvest-triple-7">Stone Winter Harvest Triple</a></span> </div> </div>
+<div class="views-row views-row-10 views-row-even clearfix">
+<div class="views-field views-field-field-date"> <div class="field-content"><span class="date-display-single" content="2016-11-17T00:00:00-08:00" datatype="xsd:dateTime" property="dc:date">Thursday, November 17</span></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/events/stone-brewing-world-bistro-gardens-liberty-station-ryethm">Stone Brewing World Bistro &amp; Gardens - Liberty Station Ryethm</a></span> </div> </div>
+<div class="views-row views-row-11 views-row-odd clearfix">
+<div class="views-field views-field-field-date"> <div class="field-content"><span class="date-display-single" content="2016-11-18T00:00:00-08:00" datatype="xsd:dateTime" property="dc:date">Friday, November 18</span></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/events/20th-anniversary-encore-series-stone-14th-anniversary-emperial-ipa-2">20th Anniversary Encore Series: Stone 14th Anniversary Emperial IPA</a></span> </div> </div>
+<div class="views-row views-row-12 views-row-even clearfix">
+<div class="views-field views-field-field-date"> <div class="field-content"><span class="date-display-single" content="2016-11-21T00:00:00-08:00" datatype="xsd:dateTime" property="dc:date">Monday, November 21</span></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/events/stone-koteka-rise-grind-bourbon-barrel-aged-imperial-red-ale-wpapua-new-guinea-coffee-0">Stone Koteka Rise &amp; Grind (Bourbon Barrel aged Imperial Red Ale w/Papua New Guinea Coffee)</a></span> </div> </div>
+<div class="views-row views-row-13 views-row-odd clearfix">
+<div class="views-field views-field-field-date"> <div class="field-content"><span class="date-display-single" content="2016-11-21T00:00:00-08:00" datatype="xsd:dateTime" property="dc:date">Monday, November 21</span></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/events/stone-enjoy-122516-unfiltered-ipa">Stone Enjoy By 12.25.16 Unfiltered IPA</a></span> </div> </div>
+<div class="views-row views-row-14 views-row-even clearfix">
+<div class="views-field views-field-field-date"> <div class="field-content"><span class="date-display-single" content="2016-11-22T00:00:00-08:00" datatype="xsd:dateTime" property="dc:date">Tuesday, November 22</span></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/events/stone-barrel-aged-imperial-saison-w-peach-0">Stone Barrel-Aged Imperial Saison w/ Peach</a></span> </div> </div>
+<div class="views-row views-row-15 views-row-odd clearfix">
+<div class="views-field views-field-field-date"> <div class="field-content"><span class="date-display-single" content="2016-11-23T00:00:00-08:00" datatype="xsd:dateTime" property="dc:date">Wednesday, November 23</span></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/events/stone-brewing-world-bistro-gardens-liberty-station-kolsch%C3%A9">Stone Brewing World Bistro &amp; Gardens - Liberty Station Kolsché</a></span> </div> </div>
+<div class="views-row views-row-16 views-row-even clearfix">
+<div class="views-field views-field-field-date"> <div class="field-content"><span class="date-display-single" content="2016-11-23T00:00:00-08:00" datatype="xsd:dateTime" property="dc:date">Wednesday, November 23</span></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/events/stone-pilot-stone-enjoy-ipa-wcoffee-chocolate">Stone Pilot: Stone Enjoy By IPA w/Coffee &amp; Chocolate</a></span> </div> </div>
+<div class="views-row views-row-17 views-row-odd clearfix">
+<div class="views-field views-field-field-date"> <div class="field-content"><span class="date-display-single" content="2016-11-25T00:00:00-08:00" datatype="xsd:dateTime" property="dc:date">Friday, November 25</span></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/events/drew-curtis-wil-wheaton-greg-koch-stone-farking-wheaton-w00tstout-2016-7">Drew Curtis / Wil Wheaton / Greg Koch Stone Farking Wheaton w00tstout (2016)</a></span> </div> </div>
+<div class="views-row views-row-18 views-row-even clearfix">
+<div class="views-field views-field-field-date"> <div class="field-content"><span class="date-display-single" content="2016-11-29T00:00:00-08:00" datatype="xsd:dateTime" property="dc:date">Tuesday, November 29</span></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/events/stone-foudre-aged-imperial-saison-11">Stone Foudre-Aged Imperial Saison</a></span> </div> </div>
+<div class="views-row views-row-19 views-row-odd views-row-last clearfix">
+<div class="views-field views-field-field-date"> <div class="field-content"><span class="date-display-single" content="2016-12-02T00:00:00-08:00" datatype="xsd:dateTime" property="dc:date">Friday, December 2</span></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/events/20th-anniversary-encore-series-stone-14th-anniversary-emperial-ipa-4">20th Anniversary Encore Series: Stone 14th Anniversary Emperial IPA</a></span> </div> </div>
 </div>
 </div></div> </div>
 </div>
 <!-- END GROWLER FILLS -->
-<!-- EVENTS -->
-<div class="row" id="book-an-event">
-<div class="col-md-6 slideshow slideshow-left">
-<div class="field field-name-field-event-images field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><div class="stone-bgimage" style="background-image:url(http://www.stonebrewing.com/sites/default/files/images/locations/events/taproom_events.jpg);"></div>
-</div></div></div> </div>
-<div class="col-md-6 right-content width-limit">
-<div class="field field-name-field-event-title field-type-text field-label-hidden h3"><div class="field-items"><div class="field-item even">Host a Private Event</div></div></div> <div class="field field-name-field-event-description field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>Thank you for considering us for your event! We look forward to helping you create a successful event that is memorable and unique. So that we can provide you with the very best experience, please familiarize yourself with our guidelines and policies prior to contacting our event staff. Please note that we have room for some flexibility—we want to make your event special!</p>
-<p><em>**Please specify if your event is a holiday party when contacting us—these events require extra care and attention. We look forward to providing you a stellar holiday experience!**</em></p>
-</div></div></div> <div class="text-center"></div>
-<h2 class="request-info-form-toggle text-center"><span class="icons"><i class="icon-plus"></i><i class="icon-minus"></i></span> REQUEST MORE INFORMATION</h2><div id="event-info-request-form" style="display:none;"><form accept-charset="UTF-8" action="/visit/outposts/tap-room" class="webform-client-form webform-client-form-153186" id="webform-client-form-153186" method="post"><div><div class="form-item webform-component webform-component-markup webform-component--requirement">
-<p class="rtecenter">All fields are required.</p>
-</div>
-<div class="col-sm-6 form-item webform-component webform-component-textfield webform-component--first-name">
-<label class="element-invisible" for="edit-submitted-first-name">First Name <span class="form-required" title="This field is required.">*</span></label>
-<input class="form-control form-text required" id="edit-submitted-first-name" maxlength="128" name="submitted[first_name]" placeholder="First Name" required="required" size="60" type="text" value=""/>
-</div>
-<div class="col-sm-6 form-item webform-component webform-component-textfield webform-component--last-name">
-<label class="element-invisible" for="edit-submitted-last-name">Last Name <span class="form-required" title="This field is required.">*</span></label>
-<input class="form-control form-text required" id="edit-submitted-last-name" maxlength="128" name="submitted[last_name]" placeholder="Last Name" required="required" size="60" type="text" value=""/>
-</div>
-<div class="col-sm-12 form-item webform-component webform-component-textfield webform-component--company-group">
-<label class="element-invisible" for="edit-submitted-company-group">Company/Group <span class="form-required" title="This field is required.">*</span></label>
-<input class="form-control form-text required" id="edit-submitted-company-group" maxlength="128" name="submitted[company_group]" placeholder="Company/Group" required="required" size="60" type="text" value=""/>
-</div>
-<div class="col-sm-6 form-item webform-component webform-component-email webform-component--email-address">
-<label class="element-invisible" for="edit-submitted-email-address">Email Address <span class="form-required" title="This field is required.">*</span></label>
-<input class="email form-control form-text form-email required" id="edit-submitted-email-address" name="submitted[email_address]" placeholder="Email Address" required="required" size="60" type="email"/>
-</div>
-<div class="col-sm-6 form-item webform-component webform-component-textfield webform-component--phone-number">
-<label class="element-invisible" for="edit-submitted-phone-number">Phone Number <span class="form-required" title="This field is required.">*</span></label>
-<input class="form-control form-text required" id="edit-submitted-phone-number" maxlength="128" name="submitted[phone_number]" placeholder="Phone Number" required="required" size="60" type="text" value=""/>
-</div>
-<div class="col-sm-6 form-item webform-component webform-component-textfield webform-component--date">
-<label class="element-invisible" for="edit-submitted-date">Date <span class="form-required" title="This field is required.">*</span></label>
-<input class="form-control form-text required" id="edit-submitted-date" maxlength="128" name="submitted[date]" placeholder="Date" required="required" size="60" type="text" value=""/>
-</div>
-<div class="col-sm-6 form-item webform-component webform-component-textfield webform-component--estimated-number-of-guests">
-<label class="element-invisible" for="edit-submitted-estimated-number-of-guests">Estimated Number of Guests <span class="form-required" title="This field is required.">*</span></label>
-<input class="form-control form-text required" id="edit-submitted-estimated-number-of-guests" maxlength="128" name="submitted[estimated_number_of_guests]" placeholder="Estimated Number of Guests" required="required" size="60" type="text" value=""/>
-</div>
-<div class="col-sm-6 form-item webform-component webform-component-textfield webform-component--start-time">
-<label class="element-invisible" for="edit-submitted-start-time">Start Time <span class="form-required" title="This field is required.">*</span></label>
-<input class="form-control form-text required" id="edit-submitted-start-time" maxlength="128" name="submitted[start_time]" placeholder="Start Time" required="required" size="60" type="text" value=""/>
-</div>
-<div class="col-sm-6 form-item webform-component webform-component-textfield webform-component--end-time">
-<label class="element-invisible" for="edit-submitted-end-time">End Time <span class="form-required" title="This field is required.">*</span></label>
-<input class="form-control form-text required" id="edit-submitted-end-time" maxlength="128" name="submitted[end_time]" placeholder="End Time" required="required" size="60" type="text" value=""/>
-</div>
-<div class="col-sm-12 form-item webform-component webform-component-textarea webform-component--event-description">
-<label class="element-invisible" for="edit-submitted-event-description">Event Description <span class="form-required" title="This field is required.">*</span></label>
-<div class="form-textarea-wrapper resizable"><textarea class="form-control form-textarea required" cols="60" id="edit-submitted-event-description" name="submitted[event_description]" placeholder="Event Description" required="required" rows="5"></textarea></div>
-</div>
-<input name="details[sid]" type="hidden"/>
-<input name="details[page_num]" type="hidden" value="1"/>
-<input name="details[page_count]" type="hidden" value="1"/>
-<input name="details[finished]" type="hidden" value="0"/>
-<input name="form_build_id" type="hidden" value="form-lljjN9Dhsl300TeyyOMtXj5Xa70ij7k8J1SXEMePiN4"/>
-<input name="form_id" type="hidden" value="webform_client_form_153186"/>
-<button class="webform-submit button-primary btn btn-primary form-submit" name="op" type="submit" value="Submit">Submit</button>
-</div></form></div> </div>
-</div>
-<!-- END EVENTS -->
+<!-- SUBSCRIPTIONS -->
+<section class="row block block-stone-blocks" id="flippy-mail-signup-form">
+<div class="signup-form-wrapper row"><div class="flippy"><div class="signup-flip copy"><div class="container"><div class="pull-left"><i class="icon-arrow-right"></i> <strong>Join the Growler Fill Newsletter</strong></div><div class="pull-right"><strong>SUBSCRIBE</strong></div></div></div><div class="signup-flip form"><div class="container"><form action="http://stonebrew.us2.list-manage.com/subscribe/post?u=5ec5334c4de0485ce1a0cb338&amp;id=95d025a06f" class="validate" id="mc-embedded-subscribe-form" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank"><input class="signup" name="EMAIL" placeholder="Enter Email Address" required="" type="email"><div style="position: absolute; left: -5000px;"><input name="b_5ec5334c4de0485ce1a0cb338_f4e8a31ba2" tabindex="-1" type="text" value=""/></div><div class="pull-right"><i class="icon-arrow-right"></i><input class="subscribe" name="subscribe" type="submit" value="subscribe"/></div></input></form></div></div></div></div> </section>
+<!-- END SUBSCRIPTIONS -->
 
 
 <script type="application/ld+json">
 {
   "@context": "http://schema.org",
   "@type": "LocalBusiness",
-  "name": "Stone Brewing Tap Room"
+  "name": "Stone Company Store - On Kettner"
   "address": {
     "@type": "PostalAddress",
     "addressLocality": "San Diego",
     "addressRegion": "CA",
     "postalCode": "92101",
-    "streetAddress": "795 J Street"
+    "streetAddress": "1202 Kettner Blvd, Suite 101"
   },
-  "telephone": "619.727.4452",
-  "url": "http://www.stonebrewing.com/visit/outposts/tap-room",
-  "menu": "http://www.stonebrewing.com/visit/outposts/tap-room"
+  "telephone": "619.450.4518",
+  "url": "http://www.stonebrewing.com/visit/outposts/on-kettner",
+  "menu": "http://www.stonebrewing.com/visit/outposts/on-kettner"
 }
 </script>
 
@@ -1494,7 +1519,7 @@
 <a class="column-header" href="/beers">BEERS</a>
 <div class="region region-sitemap-1">
 <section class="block block-views clearfix" id="block-views-sitemap-beers-block">
-<div class="view view-sitemap-beers view-id-sitemap_beers view-display-id-block view-dom-id-7b565d7c108b1771a914079a5a849417">
+<div class="view view-sitemap-beers view-id-sitemap_beers view-display-id-block view-dom-id-9bc88c39250e18dd9832160c46331a79">
 <div class="view-header">
 <a href="/beer">Beer Overview</a> </div>
 <div class="view-content">
@@ -1531,7 +1556,7 @@
 </section> <!-- /.block -->
 <section class="block block-stone-blocks clearfix" id="block-stone-blocks-stone-ale-fresh--2">
 <h2 class="block-title">Is Your Beer Fresh</h2>
-<a class="box" href="/freshbeer"><h2>IS YOUR BEER FRESH?</h2><p>EXP. 11.07.16</p></a>
+<a class="box" href="/freshbeer"><h2>IS YOUR BEER FRESH?</h2><p>EXP. 11.08.16</p></a>
 </section> <!-- /.block -->
 </div>
 </div>
@@ -1539,7 +1564,7 @@
 <a class="column-header" href="/visit">VISIT</a>
 <div class="region region-sitemap-2">
 <section class="block block-views clearfix" id="block-views-sitemap-visit-block">
-<div class="view view-sitemap-visit view-id-sitemap_visit view-display-id-block view-dom-id-010fdb1819c3faf4243c139dd6117b82">
+<div class="view view-sitemap-visit view-id-sitemap_visit view-display-id-block view-dom-id-f74c2bf7afa000dedd87b46646b2172b">
 <div class="view-header">
 <a href="/visit/bistros">Bistros</a> </div>
 <div class="view-content">
@@ -1588,7 +1613,7 @@
 <a class="column-header" href="/events">EVENTS</a>
 <div class="region region-sitemap-3">
 <section class="block block-views clearfix" id="block-views-sitemap-events-block">
-<div class="view view-sitemap-events view-id-sitemap_events view-display-id-block view-dom-id-297a53ec42fd14639469a0494387bab3">
+<div class="view view-sitemap-events view-id-sitemap_events view-display-id-block view-dom-id-7b59c429ccc455a567c068104e367488">
 <div class="view-header">
 <a class="box" href="/events"><i class="icon-megaphone"></i>Featured Events</a> </div>
 <div class="view-content">
@@ -1672,13 +1697,13 @@
 <section class="clearfix row" id="footer">
 <div class="region region-footer">
 <section class="block block-sharethis clearfix" id="block-sharethis-sharethis-block">
-<div class="sharethis-wrapper"><span class="st_facebook_large" displaytext="facebook" st_title="Stone Brewing Tap Room" st_url="http://www.stonebrewing.com/visit/outposts/tap-room"></span>
-<span class="st_twitter_large" displaytext="twitter" st_title="Stone Brewing Tap Room via @stonebrewingco" st_url="http://www.stonebrewing.com/visit/outposts/tap-room" st_username="stonebrewingco" st_via="stonebrewingco"></span>
-<span class="st_pinterest_large" displaytext="pinterest" st_title="Stone Brewing Tap Room" st_url="http://www.stonebrewing.com/visit/outposts/tap-room" st_username="stonebrewingco" st_via="stonebrewingco"></span>
-<span class="st_linkedin_large" displaytext="linkedin" st_title="Stone Brewing Tap Room" st_url="http://www.stonebrewing.com/visit/outposts/tap-room" st_username="stonebrewingco" st_via="stonebrewingco"></span>
-<span class="st_email_large" displaytext="email" st_title="Stone Brewing Tap Room" st_url="http://www.stonebrewing.com/visit/outposts/tap-room" st_username="stonebrewingco" st_via="stonebrewingco"></span>
-<span class="st_sharethis_large" displaytext="sharethis" st_title="Stone Brewing Tap Room" st_url="http://www.stonebrewing.com/visit/outposts/tap-room" st_username="stonebrewingco" st_via="stonebrewingco"></span>
-<span class="st_fblike_large" displaytext="fblike" st_title="Stone Brewing Tap Room" st_url="http://www.stonebrewing.com/visit/outposts/tap-room" st_username="stonebrewingco" st_via="stonebrewingco"></span>
+<div class="sharethis-wrapper"><span class="st_facebook_large" displaytext="facebook" st_title="Stone Company Store - Kettner" st_url="http://www.stonebrewing.com/visit/outposts/on-kettner"></span>
+<span class="st_twitter_large" displaytext="twitter" st_title="Stone Company Store - Kettner via @stonebrewingco" st_url="http://www.stonebrewing.com/visit/outposts/on-kettner" st_username="stonebrewingco" st_via="stonebrewingco"></span>
+<span class="st_pinterest_large" displaytext="pinterest" st_title="Stone Company Store - Kettner" st_url="http://www.stonebrewing.com/visit/outposts/on-kettner" st_username="stonebrewingco" st_via="stonebrewingco"></span>
+<span class="st_linkedin_large" displaytext="linkedin" st_title="Stone Company Store - Kettner" st_url="http://www.stonebrewing.com/visit/outposts/on-kettner" st_username="stonebrewingco" st_via="stonebrewingco"></span>
+<span class="st_email_large" displaytext="email" st_title="Stone Company Store - Kettner" st_url="http://www.stonebrewing.com/visit/outposts/on-kettner" st_username="stonebrewingco" st_via="stonebrewingco"></span>
+<span class="st_sharethis_large" displaytext="sharethis" st_title="Stone Company Store - Kettner" st_url="http://www.stonebrewing.com/visit/outposts/on-kettner" st_username="stonebrewingco" st_via="stonebrewingco"></span>
+<span class="st_fblike_large" displaytext="fblike" st_title="Stone Company Store - Kettner" st_url="http://www.stonebrewing.com/visit/outposts/on-kettner" st_username="stonebrewingco" st_via="stonebrewingco"></span>
 </div>
 </section> <!-- /.block -->
 </div>
@@ -1716,8 +1741,8 @@
 <li class="leaf"><a href="/visit/outposts/richmond" title="">Richmond</a></li>
 <li class="leaf"><a href="/visit/outposts/oceanside" title="">Oceanside</a></li>
 <li class="leaf"><a href="/visit/outposts/pasadena" title="">Pasadena</a></li>
-<li class="leaf"><a href="/visit/outposts/on-kettner" title="">On Kettner</a></li>
-<li class="leaf"><a class="active" href="/visit/outposts/tap-room" title="">Stone Brewing Tap Room</a></li>
+<li class="leaf"><a class="active" href="/visit/outposts/on-kettner" title="">On Kettner</a></li>
+<li class="leaf"><a href="/visit/outposts/tap-room" title="">Stone Brewing Tap Room</a></li>
 <li class="leaf"><a href="/visit/outposts/airport" title="">in Terminal 2</a></li>
 <li class="leaf"><a href="http://berlin.stonebrewing.com" title="">Berlin</a></li>
 <li class="last leaf"><a href="/visit/outposts/petco-park" title="">at Petco Park</a></li>
@@ -1746,7 +1771,7 @@
 </ul> </div>
 </div>
 </div>
-<script src="http://www.stonebrewing.com/sites/all/themes/bootstrap/js/bootstrap.js?ogajyj"></script>
+<script src="http://www.stonebrewing.com/sites/all/themes/bootstrap/js/bootstrap.js?ogcbam"></script>
 
 
 
