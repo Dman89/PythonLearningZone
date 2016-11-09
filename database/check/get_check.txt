@@ -1,0 +1,15 @@
+{
+  "brewerId": 1,
+  "name": "Stone Brewing Co.",
+  "description": "The best brewer in San Diego.",
+  "googlePlaceId": "ChIJtZVYp-b024AR494LJGzTCxg",
+  "logoPath": null,
+  "address": "Changed",
+  "address1": null,
+  "city": "Escondido",
+  "state": "California",
+  "zipCode": 96576,
+  "beers": [],
+  "lastUpdated": "2016-11-09T03:24:05.363",
+  "dateAdded": null
+}
