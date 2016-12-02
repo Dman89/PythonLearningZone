@@ -5,7 +5,7 @@ def print_welcome():
     print("What should we pick up at the store?")
 
 def print_done():
-    print("Enter 'DONE' to stop adding items or enter 'HELP' to see a list of current commands.")
+    print("Enter 'DONE' to stop adding items or enter 'HELP' to see a list of current commands.\nSeparate each item with a comma.\n")
 
 def print_commands():
     print("""
