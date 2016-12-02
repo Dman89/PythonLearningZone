@@ -2,7 +2,9 @@ import os
 import time
 goal = {"name": "", "subject": {"name": "", "rank": 0}, "rank": "", "impact": "", "progression": "", "completed": False, "id": time.time(), "value": 0}
 subject = {"name": "", "rank": 0}
+completed_arr = []
 def top_goals():
+    sort_data()
     list_top = data
     list_top.reverse()
     clear()
@@ -23,6 +25,49 @@ def search(term):
             z+=1
     if z == 1:
         print("Not in a current goal.")
+def list_completed(name):
+    global completed_arr
+    clear()
+    try:
+        DATA = open(name+"_completed.json", "r")
+        completed_arr = eval(DATA.read())
+        DATA.close()
+        print("\nCompleted Goals Found\n\n")
+        print("Past Goals Complete:\n", len(completed_arr), "\n\n")
+    except FileNotFoundError:
+        completed_arr = []
+        print("\nNone Completed, yet...\n\n")
+        return
+    else:
+        for comp in completed_arr:
+            print(comp["name"])
+            print(comp["subject"]["name"])
+            print((int(comp["value"])/ 10000))
+            print("\n\n\n")
+def clear_completed(name, data):
+    global completed_arr
+    z=0
+    for info in data:
+        if info["completed"] == True:
+            try:
+                DATA = open(name+"_completed.json", "r")
+                completed_arr = eval(DATA.read())
+                DATA.close()
+                print("\nCompleted Goals Found\n\n")
+                print("Past Goals Complete:\n", len(completed_arr), "\n\n")
+            except FileNotFoundError:
+                completed_arr = []
+                print("\nCompleted Goals Created\n\n")
+            complete_a_goal = data[z]
+            completed_arr.append(complete_a_goal)
+            del data[z]
+        z+=1
+    try:
+        with open(str(name)+"_completed.json", "w", encoding="UTF-8") as text_file:
+            print(completed_arr, file=text_file)
+    except TypeError:
+        print("\n\n\n","Didnt Save File", "\n\n\n\n")
+    save_file(name, data)
 def compute_goal(subrank, rank, impact, progression):
     return ((int(rank) * int(subrank)) * (int(impact) * int(progression)))
 def recompute_data():
@@ -54,6 +99,7 @@ def load_file():
         data = eval(DATA.read())
         DATA.close()
         print("\nUser Found\n\n")
+        print("Goals left to Complete:\n", len(data), "\n\n")
     except FileNotFoundError:
         data = []
         print("\nUser Created\n\n")
@@ -63,6 +109,7 @@ def load_file():
         subjects = eval(DATA.read())
         DATA.close()
         print("\nSubjects Loaded\n\n")
+        print("In", len(subjects), "Subjects.\n\n")
     except FileNotFoundError:
         subjects = []
         print("\nSubjects Created\n\n")
@@ -75,7 +122,7 @@ def remove_goal():
     if edit_num == "EXIT":
         return
     edit_num = int(edit_num) - 1
-    check_now = input(str("Are you sure? (Y) >>> "))
+    check_now = input(str("Are you sure? "+data[edit_num]["name"]+" (Y) >>> "))
     if check_now == "Y":
         del data[edit_num]
         print("Removed Item.")
@@ -90,7 +137,7 @@ def remove_subjects():
     if edit_num == "EXIT":
         return
     edit_num = int(edit_num) - 1
-    check_now = input(str("Are you sure? (Y) >>> "))
+    check_now = input(str("Are you sure? "+subjects[edit_num]["name"]+" (Y) >>> "))
     if check_now == "Y":
         for info in data:
             if info["subject"]["name"] == subjects[edit_num]["name"]:
@@ -199,7 +246,7 @@ def search_for_subject(subj):
         else:
             continue
     return True
-def list_data(num):
+def sort_data():
     z=0
     while (z < len(data)):
         x=0
@@ -212,6 +259,8 @@ def list_data(num):
             x+=1
             y+=1
         z+=1
+def list_data(num):
+    sort_data()
     print("\n\nListing Items...")
     if num == 1:
         number = int(len(data))
@@ -272,19 +321,24 @@ def i_add_item():
         subjects.append(subject)
     print("Goal Added!", "\n", goal["name"], "\n\n")
 def i_order(name, data):
-    order = input(str("Would you like to ADD, EDIT, EDIT SUBJECTS, REMOVE, REMOVE SUBJECTS, mark a goal COMPLETE, LIST, list SUBJECTS, view TOP goals, EXIT, or SAVE?\n>>> "))
+    order = input(str("Would you like to ADD, EDIT, EDIT SUBJECTS, REMOVE, REMOVE SUBJECTS, mark a goal COMPLETE, LIST, list SUBJECTS, list COMPLETED, view TOP goals, STORE COMPLETED goals, EXIT, or SAVE?\n>>> "))
     print("{}:".format(order))
     if order == "ADD":
         print("\n\nNow adding a goal...")
         i_add_item()
     elif order == "EDIT":
         edit_goal()
+    elif order == "COMPLETED":
+        list_completed(name)
     elif order == "SEARCH":
         clear()
         term = input(str("Search:\n>>> "))
         search(term)
     elif order == "TOP":
         top_goals()
+    elif order == "STORE COMPLETED":
+        clear()
+        clear_completed(name, data)
     elif order == "EDIT SUBJECTS":
         edit_subjects()
     elif order == "REMOVE":
