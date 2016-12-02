@@ -13,6 +13,16 @@ def top_goals():
             if info["completed"] == False:
                 print(info["name"], "\n", (int(info["value"])/10000), "\n\n")
                 z+=1
+def search(term):
+    z = 1
+    for info in data:
+        if term in info["name"]:
+            print("\n\n___---***^^#"+str(z)+"^^***---___\n\n")
+            print("Name:", info["name"], "\n", "Subject:", info["subject"]["name"], "\n", "Value:", (int(info["value"]) / 10000))
+            print("\n\n___---***^^#"+str(z)+"^^***---___\n\n")
+            z+=1
+    if z == 1:
+        print("Not in a current goal.")
 def compute_goal(subrank, rank, impact, progression):
     return ((int(rank) * int(subrank)) * (int(impact) * int(progression)))
 def recompute_data():
@@ -269,6 +279,10 @@ def i_order(name, data):
         i_add_item()
     elif order == "EDIT":
         edit_goal()
+    elif order == "SEARCH":
+        clear()
+        term = input(str("Search:\n>>> "))
+        search(term)
     elif order == "TOP":
         top_goals()
     elif order == "EDIT SUBJECTS":
