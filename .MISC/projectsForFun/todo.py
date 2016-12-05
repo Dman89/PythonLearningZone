@@ -3,6 +3,13 @@ import time
 goal = {"name": "", "subject": {"name": "", "rank": 0}, "rank": "", "impact": "", "progression": "", "completed": False, "id": time.time(), "value": 0}
 subject = {"name": "", "rank": 0}
 completed_arr = []
+def check_input(i, o):
+    if "" in i:
+        if len(i) == 0:
+            print("\n", o, "\n\n")
+            return o
+        else:
+            return i
 def top_goals():
     sort_data()
     list_top = data
@@ -17,12 +24,14 @@ def top_goals():
                 z+=1
 def search(term):
     z = 1
+    x = 0
     for info in data:
         if term in info["name"]:
             print("\n\n___---***^^#"+str(z)+"^^***---___\n\n")
-            print("Name:", info["name"], "\n", "Subject:", info["subject"]["name"], "\n", "Value:", (int(info["value"]) / 10000))
+            print("Name:", info["name"], "\n", "Subject:", info["subject"]["name"], "\n", "Value:", (int(info["value"]) / 10000), "\n", "Index:", x)
             print("\n\n___---***^^#"+str(z)+"^^***---___\n\n")
             z+=1
+        x+=1
     if z == 1:
         print("Not in a current goal.")
 def list_completed(name):
@@ -163,9 +172,11 @@ def completed_goal():
     print("Goal Completed.")
 def list_editable_goal(goal, number):
     item = input(str("Add a Goal (Old: "+goal["name"]+"): "))
+    item = check_input(item, goal["name"])
     if item == "EXIT":
         return
     subject = input(str("Goal is for what Subject? (Old: "+goal["subject"]["name"]+"): "))
+    subject = check_input(subject, goal["subject"]["name"])
     new_subject = search_for_subject(subject)
     print("For these next steps, the higher the number, the more important the goal.\n\n")
     if new_subject == True:
@@ -173,8 +184,11 @@ def list_editable_goal(goal, number):
     else:
         subrank = new_subject
     rank = input(str("Rate the Goal (1-10) (Old: "+goal["rank"]+"): "))
+    rank = check_input(rank, goal["rank"])
     impact = input(str("Impact Your Short Term Goals (1-10) (Old: "+goal["impact"]+"): "))
+    impact = check_input(impact, goal["impact"])
     progression = input(str("What Effect Would this have on Your Development as a Person (1-100) (Old: "+goal["progression"]+"): "))
+    progression = check_input(progression, goal["progression"])
     value = compute_goal(subrank, rank, impact, progression)
     goal = {"name": item, "subject": {"name": subject, "rank": subrank}, "rank": rank, "impact": impact, "progression": progression, "completed": False, "id": goal["id"], "value": value}
     subject = {"name": subject, "rank": subrank}
@@ -186,6 +200,7 @@ def list_editable_goal(goal, number):
 def list_editable_subject(subj, number):
     check = subjects[number]
     subject = input(str("Name for Subject? (Old: "+subj["name"]+"): "))
+    subject = check_input(subject, subj["name"])
     if subject == "EXIT":
         return
     new_subject = search_for_subject(subject)
@@ -193,6 +208,7 @@ def list_editable_subject(subj, number):
         subrank = input(str("Rate the Subject's Value (1-100): "))
     else:
         subrank = input(str("Rate the Subject's Value (1-100) (Old: "+new_subject+"): "))
+        subrank = check_input(subrank, new_subject)
     print("For these next steps, the higher the number, the more important the goal.\n\n")
     subject_save = {"name": subject, "rank": subrank}
     x = 0
@@ -262,6 +278,7 @@ def sort_data():
 def list_data(num):
     sort_data()
     print("\n\nListing Items...")
+    z=0
     if num == 1:
         number = int(len(data))
     else:
@@ -269,6 +286,7 @@ def list_data(num):
     for info in data:
         print("\n\n___---***^^#"+str(number)+"^^***---___\n\n")
         print("#"+str(number))
+        print("Index: #{}".format(z))
         print("Goal:")
         print(info["name"])
         print("Subject:")
@@ -288,6 +306,7 @@ def list_data(num):
             number -= 1
         else:
             number += 1
+        z+=1
     print("\n")
 def i_add_item():
     item = input(str("Add a Goal: "))
